@@ -12,4 +12,4 @@ A backup/mirror of `wiki[.]pretendo[.]zip`. All files are as-is exports, with th
 * `.github/copilot-instructions.md`
 * `copilot-instructions.md`
 
-The wiki is hosted with [DokuWiki](https://dokuwiki.org/).
+The wiki is hosted with [DokuWiki](https://dokuwiki.org/). `robots.txt` is not a DokuWiki export and is managed by Cloudflare.
