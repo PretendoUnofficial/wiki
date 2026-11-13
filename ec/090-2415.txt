@@ -1,0 +1,23 @@
+~~Title: 3DS Error-Code 090-2415 - Unofficial Pretendo Wiki ~~
+
+
+{{htmlmetatags>
+metatag-media-og:image=(https://pbs.twimg.com/profile_images/1268751147805880320/Q-sBgEr4_400x400.jpg)
+metatag-og:description=(Change your DNS server to 34.75.107.68 in Internet Settings to download DLC content in Monster Hunter. Note these are unofficial servers not endorsed or operated by Pretendo)
+metatag-description=(Change your DNS server to 34.75.107.68 in Internet Settings to download DLC content in Monster Hunter. Note these are unofficial servers not endorsed or operated by Pretendo)
+metatag-og:title=(3DS Error-Code 090-2415 - Unofficial Pretendo Wiki)
+}}
+
+
+
+====== 3DS Error-Code 090-2415 ======
+
+<WRAP center round info 80%>
+This error code is related to Monster Hunter DLC servers that are not operated by Pretendo. Pretendo does not endorse these servers and if you need any additional help with these servers, please post on the [[https://mholdschool.com/|Monster Hunter OldSchool forums]].
+</WRAP>
+
+\\
+
+Change your DNS server to 34.75.107.68 in Internet Settings to download DLC content in Monster Hunter.
+
+Use this guide to assist with setting it up: https://forum.pretendo.network/t/how-to-access-mh-oldschool-monster-hunter-dlc-servers-for-3ds-and-wiiu/10126#p-44301-h-3ds-system-settings-1.

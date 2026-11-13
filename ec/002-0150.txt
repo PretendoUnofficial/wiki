@@ -1,0 +1,27 @@
+~~Title: 3DS Error-Code 002-0150 - Unofficial Pretendo Wiki ~~
+
+
+{{htmlmetatags>
+metatag-media-og:image=(https://pbs.twimg.com/profile_images/1268751147805880320/Q-sBgEr4_400x400.jpg)
+metatag-og:description=(Your LocalFriendCodeSeed_B doesn't match up with the serial number on your console. To access online services, restore the original using Godmode9. More details on Wiki-Page)
+metatag-description=(Your LocalFriendCodeSeed_B doesn't match up with the serial number on your console. To access online services, restore the original using Godmode9. More details on Wiki-Page)
+metatag-og:title=(3DS Error-Code 002-0150 - Unofficial Pretendo Wiki)
+}}
+
+
+
+====== 3DS Error-Code 002-0150 ======
+
+Your LocalFriendCodeSeed_B doesn't match up with the serial number on your console, possibly modified in the past to evade a Nintendo Network ban. To access online services, restore the original using Godmode9.
+
+To do this, download the latest version of [[https://github.com/Preloading/Restore-LFCS_B/releases/latest|Restore-LFCS_B from GitHub]] and place the script in ''/gm9/scripts'' on your 3DS SD card.
+
+When booting up your 3DS, hold ''START'' to enter Godmode9. Once it's loaded, press `HOME` > Scripts > Run script > Restore original LFCS and try the first option. Then, reboot your console and check the Friends List application.
+
+If the error code has disappeared, you've successfully fixed this error code. If it still displays, go back into Godmode9 and keep testing each option until you find something that works.
+
+\\
+
+<WRAP center round info 80%>
+For further support with this error code or any associated error codes, please look for a solution or make a support post on the [[https://forum.pretendo.network/|forum]].
+</WRAP>

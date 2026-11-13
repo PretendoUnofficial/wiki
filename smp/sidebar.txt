@@ -1,0 +1,10 @@
+  * [[smp:rules|Rules]]
+  * [[smp:commands|User Commands]]
+  * [[https://bluemap.pretendo.network/|Bluemap]]
+  * [[https://status.erdbeerbaerlp.de/report/uptime/fa5d5d1a27f2629f58da4c9c976f4c96/|Status Page]]
+
+====== Joining ======
+**Java + Bedrock:** ''smp.pretendo.network''
+
+
+

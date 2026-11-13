@@ -1,0 +1,93 @@
+~~Title: Error Prefixes - Unofficial Pretendo Wiki ~~
+
+{{htmlmetatags>
+metatag-media-og:image=(https://pbs.twimg.com/profile_images/1268751147805880320/Q-sBgEr4_400x400.jpg)
+metatag-og:description=(List of all known error prefixes with description)
+metatag-description=(List of all known error prefixes with description)
+metatag-og:title=(Error Prefixes - Unofficial Pretendo Wiki)
+}}
+
+
+====== Error Prefixes ======
+
+Here is documentation of what error code prefix is for which module.
+
+=== Nintendo 3DS ===
+
+^ Code      ^ Module                                  ^  Description                                                                         ^
+| 001-XXXX  | Friends                                 | Friend Server                                                                        |
+| 002-XXXX  | NASC                                    | Accounts (NASC)                                                                      |
+| 003-XXXX  | AC - Auto Connection                    | Internet Connection                                                                  |
+| 004-XXXX  | BOSS                                    | SpotPass                                                                             |
+| 005-XXXX  | NIM - Nintendo Installation Management  | Title Installation                                                                   |
+| 006-XXXX  | NEX - Network Extension                 | Matchmaking Servers                                                                  |
+| 007-XXXX  | Tiger                                   | Nintendo eShop API                                                                   |
+| 008-XXXX  | Parental Controls                       | Parental Controls                                                                    |
+| 009-XXXX  | Unknown                                 | Nintendo eShop related                                                               |
+| 011-XXXX  | Nintendo eShop website                  | Nintendo eShop (website)                                                             |
+| 012-XXXX  | Spider                                  | Old 3DS Internet Browser                                                             |
+| 014-XXXX  | Cardboard                               | System Transfer                                                                      |
+| 015-XXXX  | OLV - Olive                             | Miiverse                                                                             |
+| 018-XXXX  | PIA                                     | Peer to Peer (P2P)                                                                   |
+| 022-XXXX  | ACT - Accounts                          | Accounts (Nintendo Network ID)                                                       |
+| 026-XXXX  | Unknown                                 | DLC/eShop related                                                                    |
+| 028-XXXX  | Unknown                                 | System transfer related                                                              |
+| 030-XXXX  | Unknown                                 | DLC/eShop related                                                                    |
+| 032-XXXX  | Skater                                  | New 3DS Internet Browser                                                             |
+| 033-XXXX  | Unknown                                 | Only known error is 033-0001. Possibly unused?                                       |
+| 034-XXXX  | Unknown                                 | Unknown meaning. Possibly unused?                                                    |
+| 090-XXXX  | Unknown                                 | Potentially game-specific services. Used by Pokémon Global Link and Monster Hunter.  |
+
+
+=== Wii U ===
+
+^ Code      ^ Module                                  ^  Description                                                                                                           ^
+| 101-XXXX  | FP - Friend Presence                    | Friends                                                                                                                |
+| 102-XXXX  | ACT - Accounts                          | Nintendo Network ID Accounts                                                                                           |
+| 103-XXXX  | AC - Auto Connection                    | Internet Connection                                                                                                    |
+| 104-XXXX  | BOSS                                    | SpotPass                                                                                                               |
+| 105-XXXX  | NIM - Nintendo Installation Management  | Title Installation                                                                                                     |
+| 106-XXXX  | NEX - Network Extension                 | Matchmaking Servers                                                                                                    |
+| 107-XXXX  | Nintendo eShop API                      | Nintendo eShop                                                                                                         |
+| 108-XXXX  | Unknown                                 | Various                                                                                                                |
+| 109-XXXX  | Unknown                                 | Nintendo eShop related                                                                                                 |
+| 110-XXXX  | Unknown                                 | Only known code is 3300, which occurred for some people when attempting to view special offers in the Nintendo eShop.  |
+| 111-XXXX  | Nintendo eShop Website                  | Nintendo eShop                                                                                                         |
+| 112-XXXX  | Surf                                    | Internet Browser                                                                                                       |
+| 115-XXXX  | OLV - Olive                             | Miiverse                                                                                                               |
+| 116-XXXX  | Unknown                                 | Known codes include 1819 and 1028, which occur for unknown reasons when attempting to boot Miiverse.                   |
+| 118-XXXX  | PIA                                     | Peer to Peer (P2P)                                                                                                     |
+| 119-XXXX  | Vino                                    | Nintendo TVii                                                                                                          |
+| 120-XXXX  | Account Settings???                     | Errors that can sometimes occur in Account Settings.                                                                   |
+| 123-XXXX  | mintU                                   | Add-On Content Overlay App                                                                                             |
+| 124-XXXX  | EC - E-Commerce                         | E-Commerce                                                                                                             |
+| 125-XXXX  | YouTube???                              | Errors appear to be related to the YouTube/Google Account API                                                          |
+| 126-XXXX  | Unknown                                 | Nintendo eShop related                                                                                                 |
+| 140-XXXX  | Unknown                                 | Used by Monster Hunter 3 Ultimate                                                                                      |
+| 150-XXXX  | FS - File System                        | File System                                                                                                            |
+| 151-XXXX  | KPAD                                    | Wii Remote                                                                                                             |
+| 155-XXXX  | SAVE                                    | Save Files                                                                                                             |
+| 156-XXXX  | Unknown                                 | Possibly unused                                                                                                        |
+| 157-XXXX  | Unknown                                 | Likely ACP                                                                                                             |
+| 158-XXXX  | Set                                     | System Settings                                                                                                        |
+| 160-XXXX  | System                                  | System (Possibly ACP)                                                                                                  |
+| 161-XXXX  | Disc???                                 | Possibly unused                                                                                                        |
+| 162-XXXX  | MCP - Memory Control Processor          | Title management                                                                                                       |
+| 165-XXXX  | VPAD                                    | Wii U GamePad                                                                                                          |
+| 168-XXXX  | NFP - Nintendo Figurine Platform        | amiibo                                                                                                                 |
+| 170-XXXX  | Softlock                                | Softlock/Crash                                                                                                         |
+| 199-XXXX  | Miscellaneous                           | Miscellaneous errors                                                                                                   |
+
+=== Pretendo Network ===
+^ Code      ^  Type             ^  Description                           ^
+| 377-XXXX  | Error             | Miscellaneous Pretendo errors          |
+| 598-XXXX  | Juxtaposition     | Pretendo Network Miiverse replacement  |
+| 678-XXXX  | Martini           | Pretendo legacy Miiverse patcher       |
+| 727-XXXX  | Account Settings  | Pretendo Network ID Account Settings   |
+
+
+To look for a specific error, check the official site instead: https://pretendo.network/docs/errors or type it into https://discord.com/channels/408718485913468928/415616380570697729
+
+
+Page and further documentation by @spletz_\\ 
+**If you get an error code from a module which requires further documentation, please contact spletz_ on Discord.**

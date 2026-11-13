@@ -1,0 +1,31 @@
+~~Title: 3DS Error-Code 002-0121 - Unofficial Pretendo Wiki ~~
+
+
+{{htmlmetatags>
+metatag-media-og:image=(https://pbs.twimg.com/profile_images/1268751147805880320/Q-sBgEr4_400x400.jpg)
+metatag-og:description=(This error code is NOT a ban! This wiki page contains Troubleshooting steps for 002-0121)
+metatag-description=(This error code is NOT a ban! This wiki page contains Troubleshooting steps for 002-0121)
+metatag-og:title=(3DS Error-Code 002-0121 - Unofficial Pretendo Wiki)
+}}
+
+
+
+====== 3DS Error-Code 002-0121 ======
+
+No, you're not banned.
+
+To fix this issue, make sure that the first two options in Luma3DS settings are enabled. These are ''Enable loading external firms and modules'' and ''Enable game patching''. Additionally, ensure the bottom text also says ''Booted from SD via B9S.'' If it says ''Booted from CTRNAND via B9S.'' you will need to [[https://3ds.hacks.guide/restoring-updating-cfw.html|re-add Luma3DS to your SD]].
+
+You can access Luma3DS settings by long pressing ''SELECT'' when booting up your console. Make sure to save your changes before exiting.
+
+You can check whether it's fixed by opening the Friends List application. 
+
+If it's not fixed, reinstalling the Pretendo patches can help. The easiest way to do so is through universal-updater.
+
+If the issue is still not fixed, or the same error code also occurs on Nintendo Network, your ''LocalFriendCodeSeed_B'' file is likely broken and will need to be fixed. You can find more information about repairing your LFCS on the [[ec:002-0150|002-0150 page]].
+
+\\
+
+<WRAP center round info 80%>
+For further support with this error code or any associated error codes, please look for a solution or make a support post on the [[https://forum.pretendo.network/|forum]].
+</WRAP>

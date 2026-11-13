@@ -1,0 +1,12 @@
+~~Title: Game Support Status - Unofficial Pretendo Wiki ~~
+
+====== Pretendo Game Support Status ======
+
+{{htmlmetatags>
+metatag-media-og:image=(https://cloud.erdbeerbaerlp.de/s/MofHxp4PPGtiFAY/download)
+metatag-og:description=(List of games supported by Pretendo Network, including current access status)
+metatag-description=(List of games supported by Pretendo Network, including current access status)
+metatag-og:title=(Game Support Status - Unofficial Pretendo Wiki)
+}}
+
+~~REDIRECT>https://rroll.to/6HGDsC~~

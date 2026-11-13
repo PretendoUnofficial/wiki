@@ -1,0 +1,23 @@
+~~Title: 3DS Error-Code 003-0399 - Unofficial Pretendo Wiki ~~
+
+
+{{htmlmetatags>
+metatag-media-og:image=(https://pbs.twimg.com/profile_images/1268751147805880320/Q-sBgEr4_400x400.jpg)
+metatag-og:description=(To accept the user agreement to access online services, run DSES on your console. A usage guide is available on their GitHub)
+metatag-description=(To accept the user agreement to access online services, run DSES on your console. A usage guide is available on their GitHub)
+metatag-og:title=(3DS Error-Code 003-0399 - Unofficial Pretendo Wiki)
+}}
+
+
+
+====== 3DS Error-Code 003-0399 ======
+
+To accept the user agreement to access online services, run [[https://github.com/noirscape/dses/releases/latest|DSES]] on your console.
+
+A usage guide is available on the [[https://github.com/noirscape/dses/tree/v1.2.0?tab=readme-ov-file#usage|GitHub]].
+
+\\
+
+<WRAP center round info 80%>
+For further support with this error code or any associated error codes, please look for a solution or make a support post on the [[https://forum.pretendo.network/|forum]].
+</WRAP>

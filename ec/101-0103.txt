@@ -1,0 +1,23 @@
+~~Title: Wii U Error-Code 101-0103 - Unofficial Pretendo Wiki ~~
+
+
+{{htmlmetatags>
+metatag-media-og:image=(https://pbs.twimg.com/profile_images/1268751147805880320/Q-sBgEr4_400x400.jpg)
+metatag-og:description=(You probably mistyped or entered a wrong PNID, try again or using a different one)
+metatag-description=(You probably mistyped or entered a wrong PNID, try again or using a different one)
+metatag-og:title=(Wii U Error-Code 101-0103 - Unofficial Pretendo Wiki)
+}}
+
+
+
+====== Wii U Error-Code 101-0103 ======
+
+Check you've typed in the PNID of the user you're trying to add correctly.
+
+If that doesn't work, ask someone to send you a friend request and it should work normally. You can use the [[https://forum.pretendo.network/t/wii-u-pnid-exchange/2238/|Wii U PNID Exchange]] to get someone to send you a friend request if necessary.
+
+\\
+
+<WRAP center round info 80%>
+For further support with this error code or any associated error codes, please look for a solution or make a support post on the [[https://forum.pretendo.network/|forum]].
+</WRAP>

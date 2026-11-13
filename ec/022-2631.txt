@@ -1,0 +1,17 @@
+~~Title: 3DS Error Code 022-2631 - Unofficial Pretendo Wiki ~~
+
+
+{{htmlmetatags>
+metatag-media-og:image=(https://pbs.twimg.com/profile_images/1268751147805880320/Q-sBgEr4_400x400.jpg)
+metatag-og:description=(This error code means the linked Pretendo Network ID was deleted. The PNID will need to be removed manually.)
+metatag-description=(This error code means the linked Pretendo Network ID was deleted. The PNID will need to be removed manually.)
+metatag-og:title=(022-2631 - Unofficial Pretendo Wiki)
+}}
+
+
+
+====== 3DS Error Code 022-2631 ======
+This error code means the linked Pretendo Network ID was deleted. The PNID will need to be removed manually.
+
+The console may prompt to go to Nintendo Network ID settings and remove the ID from there. This will not work, and you will receive error code 005-4270.
+To unlink the PNID, see the instructions [[:unlink-pnid|here]].

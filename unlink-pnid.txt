@@ -1,0 +1,91 @@
+~~Title: Unlinking a PNID - Unofficial Pretendo Wiki ~~
+
+
+{{htmlmetatags>
+metatag-media-og:image=(https://pbs.twimg.com/profile_images/1268751147805880320/Q-sBgEr4_400x400.jpg)
+metatag-og:description=(Information on unlinking a Pretendo Network ID)
+metatag-description=(Information on unlinking a Pretendo Network ID)
+metatag-og:title=(Unlinking a PNID - Unofficial Pretendo Wiki)
+}}
+
+
+
+====== Unlinking a PNID ======
+
+This page provides information on unlinking a Pretendo Network ID from a console, usually so that a different PNID can be added to the same console/profile.
+
+<WRAP center round important 80%>
+It is not recommended or necessary to remove your Nintendo Network ID through these methods, as all digital apps are tied to it. If your PNID has the same name as an NNID on the console, create a new PNID with a different name.
+</WRAP>
+
+<WRAP center round info 80%>
+This will not delete a Pretendo Network ID, so it can still be used on the same console or through another console. To delete a PNID, see [[delete-pnid|Deleting a PNID]].
+</WRAP>
+==== Nintendo 3DS ====
+
+<WRAP center round info 80%>
+The console's friend profile (friend code and added friends) will not be removed.
+</WRAP>
+
+<WRAP center round info 80%>
+To check your Nimbus version for the guides, open up Nimbus from the HOME Menu or Homebrew Launcher and the version will be displayed on the bottom right on the top screen.
+</WRAP>
+
+=== Method 1: Nimbus (for version 2.1.0 or newer) ===
+
+<WRAP center round important 80%>
+This guide does not work on consoles using Nimbus 2.0.2 or older. Please use method 2 for 2.0.0-2.0.2 and method 3 for 1.6.1 or older.
+</WRAP>
+
+    - Open the Nimbus app from the HOME Menu or Homebrew Launcher
+    - Press X to Unlink PNID and press A to acknowledge the warning prompt
+    - Your PNID is now unlinked from your system
+
+=== Method 2: PNID-Unlink (for Nimbus 2.0.0-2.0.2 ONLY) ===
+
+<WRAP center round important 80%>
+This guide does not work on consoles using Nimbus 2.1.0 or newer. Please use method 1 for 2.1.0 or newer and method 3 for 1.6.1 or older.
+</WRAP>
+
+   - Download the latest version of [[https://github.com/DaniElectra/pnid-unlink/releases/latest|PNID-Unlink]] and place it in ''/3ds/'' on your SD card
+   - Turn on your console and open the Homebrew Launcher and find PNID-Unlink
+   - Run the application and follow the steps in the application
+   - Your PNID should now be unlinked
+
+=== Method 3: Nimbus (for versions older than 2.0.0) ===
+
+<WRAP center round important 80%>
+This guide does not work on consoles using Nimbus 2.0.0 or newer. Please use method 1 for 2.1.0 or newer and method 2 for 2.0.0-2.0.2.
+</WRAP>
+
+  - Open the Nimbus app (either on the Home Menu or the Homebrew Launcher) and select Nintendo
+  - After the console reboots, power off the console 
+  - Open the Luma3DS configuration by pressing ''SELECT'' while turning the console on
+  - Disable the ''Enable loading external firms and modules'' and ''Enable game patching'' options, then select "Save and Exit"
+  - After the console reboots, launch the eShop and wait for it to load (if it provides an error code, that is fine)
+  - Power off the console, return to the Luma3DS configuration menu and re-enable ''Enable loading external firms and modules'' and ''Enable game patching'', then select "Save and Exit"
+  - Open the Nimbus app again, and select Pretendo
+  - The Pretendo Network ID should be unlinked. To confirm, launch Miiverse, and you should get either error 015-5015 or 022-5432
+
+=== Method 4: Godmode9 ====
+
+<WRAP center round important 80%>
+This method will also remove the Nintendo Network ID if one is present, and as such it is not recommended unless the console already lacks an NNID
+</WRAP>
+
+  - Create a NAND backup in Godmode9 by following [[https://3ds.hacks.guide/godmode9-usage#creating-a-nand-backup|this guide]]
+  - Remove the PNID by following [[https://3ds.hacks.guide/godmode9-usage#removing-an-nnid-without-formatting-your-console|this guide]]
+
+==== Wii U ====
+
+=== Method 1: Wii U Account Swap ===
+This will only work on consoles running the Aroma custom firmware
+  - Install the [[https://github.com/Nightkingale/Wii-U-Account-Swap/releases/tag/v2.0.5|Wii U Account Swap]] app (It can also be installed directly on the console through the Homebrew App Store)
+  - Launch the app (it should appear on the System Menu after installation)
+  - Select the ''Backup the account.dat File'' option (the backup will be stored on the SD card, do not share this backup with anybody)
+  - Once it is complete, select ''Unlink the account.dat File'' to remove the account
+=== Method 2: User Deletion ===
+<WRAP center round important 80%>
+All save data associated with the profile you wish to delete will be lost!
+</WRAP>
+[[https://en-americas-support.nintendo.com/app/answers/detail/a_id/1088/~/how-to-delete-a-nintendo-network-id-on-wii-u|Follow this guide by Nintendo]]. Ensure you follow the "I want to delete the user account" section

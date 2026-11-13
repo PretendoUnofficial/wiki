@@ -1,0 +1,23 @@
+~~Title: 3DS Error-Code 002-0101 - Unofficial Pretendo Wiki ~~
+
+
+{{htmlmetatags>
+metatag-media-og:image=(https://pbs.twimg.com/profile_images/1268751147805880320/Q-sBgEr4_400x400.jpg)
+metatag-og:description=(This error code can indicate either an outage with the servers or a missing serial number on the console. More details on the wiki page.)
+metatag-description=(This error code can indicate either an outage with the servers or a missing serial number on the console. More details on the wiki page.)
+metatag-og:title=(3DS Error-Code 002-0101 - Unofficial Pretendo Wiki)
+}}
+
+
+
+====== 3DS Error-Code 002-0101 ======
+
+This error code can indicate either an outage with the servers or a missing serial number on the console. Try checking the [[https://forum.pretendo.network/|Pretendo forums]] to see if there are current problems with the servers.
+
+If there are no ongoing issues with the servers, the console may be missing its serial number from the SecureInfo file. Run a [[https://wiki.hacks.guide/wiki/3DS:Ctrcheck|CTRcheck]] on the console, and if it says ''Warning: inspect.log serial does not match SecureInfo.'', ''Warning: inspect.log not found.'' or ''Warning: 2:/sys/log folder not found, meaning inspect.log also not found.'' then the console's serial number has likely been tampered with and you will need to ask for help in the [[https://discord.gg/nintendohomebrew|Nintendo Homebrew]] Discord server.
+
+\\
+
+<WRAP center round info 80%>
+For further support with this error code or any associated error codes, please look for a solution or make a support post on the [[https://forum.pretendo.network/|forum]].
+</WRAP>

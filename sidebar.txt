@@ -1,0 +1,40 @@
+<!--WRAP center round important 100%>
+==== Pretendo Servers are in Maintenance! ====
+Servers will come back as soon as possible! Stay tuned.
+https://status.pretendo.zip
+</WRAP-->
+
+
+
+  * **[[faq|Frequently Asked Questions (FAQ)]]**
+  * **[[game-support-status|Game Support Status]]**
+  * [[ec:root|Errors]]
+  * [[splatfests|Splatfests]]
+  * [[https://forum.pretendo.network/t/guide-detecting-your-nat-type-on-wii-u-and-3ds-consoles/6159|NAT Type Guide]]
+  * [[smp:root|MC: Java SMP]]
+  * [[disabling-spr|Disable StreetPass Relay]]
+  * [[smm-3ds-install-downloaded-courses|Import Courses SMM3DS]]
+
+
+===== Official Websites =====
+  * [[https://pretendo.network|Homepage]]
+  * [[https://juxt.pretendo.network|Juxt]]
+  * [[https://pretendo.network/docs/welcome|Installation]]
+  * [[https://github.com/pretendoNetwork/|GitHub]]
+  * [[https://mario-kart-8.pretendo.network/|Mario Kart 8]]
+  * [[https://splatoon.pretendo.network/|Splatoon]]
+  * [[https://discord.gg/pretendo|Discord]]
+  * [[https://forum.pretendo.network/|Forum]]
+    * [[https://preten.do/ban-appeal|Ban Appeals]]
+    * [[https://preten.do/report-hacker|Hacker Reports]]
+
+===== Unofficial Websites =====
+  * [[https://pretendo.zip|Pretendo Zip Generator]]
+  * [[https://smm.pretendo.zip|Mario Maker Database]]
+  * Splatoon [[https://splatcord.ink/s1rotation/|Rotation / Discord bot]] & [[https://splatcord.ink/info/api|API]]
+  * [[https://pnidlt.gab.net.eu.org/|PNID Lookup Tool]]
+  * [[https://www.studiokai.dev/wiiu|Bandwidth Comics]]
+  * [[https://status.pretendo.zip/|Pretendo Status]]
+ <!-- * [[https://n2xd.dedyn.io/juxt.html|Juxt Lookup]]-->
+
+

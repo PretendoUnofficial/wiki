@@ -1,0 +1,25 @@
+~~Title: Splatfeste - Inoffizielles Pretendo Wiki ~~
+
+====== Splatfeste ======
+
+
+{{htmlmetatags>
+metatag-media-og:image=(http://web.archive.org/web/20240806034516/https://pbs.twimg.com/profile_images/1268751147805880320/Q-sBgEr4_400x400.jpg?80)
+metatag-og:description=(Liste von vorherigen Splatfesten, die auf Pretendo stattfanden)
+metatag-description=(Liste von vorherigen Splatfesten, die auf Pretendo stattfanden)
+metatag-og:title=(Splatfeste - Inoffizielles Pretendo Wiki)
+}}
+
+Dies ist eine Liste von Splatfesten, die ausschließlich im Pretendo Network stattfanden.
+
+**Aktuell gab es nur ein Test-Splatfest. Ein Ergebnis hat es nie gegeben, da diese noch nicht unterstützt werden. An Splatfests wird aktuell gearbeitet. Das Datum des nächsten Splatfests ist unbekannt.**
+
+===== Regnerischer Tag vs Regnerische Nacht =====
+
+Dieses Splatfest war ein Test-Durchlauf der Server.
+
+**Zeit:** 14.06.2023 19:00 UTC - 20.06.2023 19:00 UTC
+
+**Gewinner:** niemand
+
+{{:pretendo:rdvsrn.png?nolink&400|}}

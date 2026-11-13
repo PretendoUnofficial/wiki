@@ -1,0 +1,12 @@
+====== Inoffizielles Pretendo Wiki ======
+
+
+{{htmlmetatags>
+metatag-media-og:image=(http://web.archive.org/web/20240806034516/https://pbs.twimg.com/profile_images/1268751147805880320/Q-sBgEr4_400x400.jpg?80)
+metatag-og:description=(Dies ist ein inoffizielles Wiki für den beliebten Nintendo Network Ersatz)
+metatag-description=(Dies ist ein inoffizielles Wiki für den beliebten Nintendo Network Ersatz)
+metatag-og:title=(Inoffizielles Pretendo Wiki)
+}}
+Willkommen im inoffiziellen Pretendo Wiki. Die Deutschfassung wird verwaltet von @ErdbeerbaerLP.
+
+Schau dir die verfügbaren Seiten auf der linken Seite an!

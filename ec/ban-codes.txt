@@ -1,0 +1,42 @@
+~~Title: Ban Error Codes - Unofficial Pretendo Wiki ~~
+
+
+{{htmlmetatags>
+metatag-media-og:image=(https://pbs.twimg.com/profile_images/1268751147805880320/Q-sBgEr4_400x400.jpg)
+metatag-og:description=(List of all Ban-Related Error-Codes on Pretendo. If you got any of those you have been banned.)
+metatag-description=(List of all Ban-Related Error-Codes on Pretendo. If you got any of those you have been banned.)
+metatag-og:title=(Ban Error Codes - Unofficial Pretendo Wiki)
+}}
+
+
+
+====== Ban Error Codes ======
+
+These are the ban error codes currently used by Pretendo. Getting one of these codes means your console or account (PNID) has been banned either from Juxtaposition or all of Pretendo. Error codes not listed here are not actual ban codes.
+===== Nintendo 3DS =====
+
+
+  * **002-0102**: This console or the associated friend profile is banned from all game servers. The associated PNID is likely not banned, however, and Juxtaposition should still be usable if the console isn't banned.
+  * **015-5007**: This PNID is permanently banned from accessing Juxtaposition. If the reason is not shown, visit https://juxt.pretendo.network to check the reason.
+  * **015-5008**: (to be fixed to 015-5007, 5008 is intended to be used for restricted, not banned) This PNID is temporarily banned from accessing Juxtaposition.
+  * **022-2802**: This PNID is permanently banned from all aspects of Pretendo Network.
+  * **022-2812**: This console is permanently banned from all aspects of Pretendo Network.
+
+
+===== Wii U =====
+
+  * **102-2802**: This PNID is permanently banned from all aspects of Pretendo Network.
+  * **102-2812**: This console is permanently banned from all aspects of Pretendo Network.
+  * **106-0306**: Permanently banned from accessing online services in Mario Kart 8.
+  * **106-0346**: Temporarily banned from accessing online services in Mario Kart 8.
+  * **115-5007**: This PNID is permanently banned from accessing Juxtaposition. If the reason is not shown, visit https://juxt.pretendo.network to check the reason.
+  * **115-5008**: (to be fixed to 115-5007, 5008 is intended to be used for restricted, not banned) This PNID is temporarily banned from accessing Juxtaposition.
+
+===== Custom Pretendo codes =====
+These error codes are only used by Pretendo Network.
+
+  * **598-0010**: Temporarily banned from Juxtaposition. Details are shown on the prompt.
+  * **598-0011**: Permanently banned from Juxtaposition. Details are shown on the prompt.
+
+===== Appealing a Ban =====
+To appeal a ban, submit your ban appeal on the Pretendo forums [[https://forum.pretendo.network/g/ban-appeals|here]].

@@ -1,0 +1,33 @@
+~~Title: Deleting a Pretendo Network ID - Unofficial Pretendo Wiki ~~
+
+
+{{htmlmetatags>
+metatag-media-og:image=(https://pbs.twimg.com/profile_images/1268751147805880320/Q-sBgEr4_400x400.jpg)
+metatag-og:description=(Information on Deleting a Pretendo Network ID.)
+metatag-description=(Information on Deleting a Pretendo Network ID.)
+metatag-og:title=(Delete-pnid - Unofficial Pretendo Wiki)
+}}
+
+
+
+====== Deleting a Pretendo Network ID ======
+
+===== Why Not to Delete a PNID ===== 
+
+==== "I forgot the password."/"The password is too long."/"I wish to change the password." ====
+By proceeding with deleting the PNID, the account username will become permanently unavailable, and this cannot be reversed.
+
+The account's password can currently be changed with a modded 3DS or Wii U. It is done through the Nintendo Network ID settings, accessed on 3DS through system settings, and on Wii U through profile settings.
+
+If you cannot log in through a console, the password will need to be reset. It cannot currently be reset through a console. It will have to be done through [[https://pretendo.network/account/forgot-password|the website]].
+
+==== "I want to change the email address" ====
+By proceeding with deleting the PNID, the account username will become permanently unavailable, and this cannot be reversed.
+
+The email currently cannot be changed through the website. It has to be changed [[https://en-americas-support.nintendo.com/app/answers/detail/a_id/1085/|through Nintendo Network ID settings]] on either a 3DS or a Wii U.
+
+The email **does not** need to be verified in order to log in.
+==== "I want to change the account birthday" ====
+By proceeding with deleting the PNID, the account username will become permanently unavailable, and this cannot be reversed.
+
+An incorrect birthdate will not affect any functionality of the services. If you wish to change the birthday, it can currently only be done through a modded Wii U. Users with only a 3DS will need to wait until account settings are supported.

@@ -1,0 +1,22 @@
+~~Title: Wii U Error-Code - Unofficial Pretendo Wiki ~~
+
+
+{{htmlmetatags>
+metatag-media-og:image=(https://pbs.twimg.com/profile_images/1268751147805880320/Q-sBgEr4_400x400.jpg)
+metatag-og:description=(You may be attempting to connect to Pretendo through the SSSL method on a console version of 5.5.4 or older. SSSL requires at least ver. 5.5.5 to work)
+metatag-description=(You may be attempting to connect to Pretendo through the SSSL method on a console version of 5.5.4 or older. SSSL requires at least ver. 5.5.5 to work)
+metatag-og:title=(Wii U Error-Code 102-2160 - Unofficial Pretendo Wiki)
+}}
+
+
+
+====== Wii U Error-Code 102-2160 ======
+
+You may be attempting to connect to Pretendo through the SSSL method on a console version of 5.5.4 or older. This will not work, as SSSL requires the console to be on at least version 5.5.5. You must [[https://wiiu.hacks.guide/unblock-updates.html|unblock updates]] if they are blocked, and then [[https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/|update the console]].
+
+
+If you are already on 5.5.5+, or are using Inkay, then something on your network may be interfering with Pretendo.
+
+<WRAP center round info 80%>
+For further support with this error code or any associated error codes, please look for a solution or make a support post on the [[https://forum.pretendo.network/|forum]].
+</WRAP>

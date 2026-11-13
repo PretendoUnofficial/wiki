@@ -1,0 +1,13 @@
+====== Unofficial Pretendo Wiki ======
+
+
+{{htmlmetatags>
+metatag-media-og:image=(https://cloud.erdbeerbaerlp.de/s/MofHxp4PPGtiFAY/download)
+metatag-og:description=(This is an unofficial wiki for the popular Nintendo Network replacement)
+metatag-description=(This is an unofficial wiki for the popular Nintendo Network replacement)
+metatag-og:title=(Unofficial Pretendo Wiki)
+}}
+
+Welcome to the unofficial Pretendo Wiki. This Wiki is currently managed by [[user:erdbeerbaerlp|@ErdbeerbaerLP]].
+
+Check out the available pages on the left!

@@ -1,0 +1,27 @@
+~~Title: 3DS Error-Code 022-5432 - Unofficial Pretendo Wiki ~~
+
+
+{{htmlmetatags>
+metatag-media-og:image=(https://pbs.twimg.com/profile_images/1268751147805880320/Q-sBgEr4_400x400.jpg)
+metatag-og:description=(When linking a PNID or when accessing Juxtaposition, this error code may sometimes appear. This Wiki-Page will help you fix it)
+metatag-description=(When linking a PNID or when accessing Juxtaposition, this error code may sometimes appear. This Wiki-Page will help you fix it)
+metatag-og:title=(3DS Error-Code 022-5432 - Unofficial Pretendo Wiki)
+}}
+
+
+
+====== 3DS Error-Code 022-5432 ======
+
+When linking a PNID or when accessing Juxtaposition, this error code may sometimes appear. This error is easy to fix with the following steps though:
+
+   - Open Nimbus and switch to Nintendo servers
+   - Open Miiverse((Some people may recommend opening eShop instead for this step but Miiverse is generally faster.)) (you should get error code 022-2882 if you've linked a Nintendo Network ID in the past or 015-5015 if you haven't)
+   - Open Nimbus and switch back to Pretendo servers
+   - Open Miiverse on Pretendo to check whether it's working properly (you should get error code 015-5015 to confirm this, if you get 022-5432, follow steps 1-4 again)
+   - To fix error code 015-5015 on Pretendo, link a PNID by going to System Settings > Nintendo Network ID settings when connected to Pretendo servers in Nimbus.
+
+\\
+
+<WRAP center round info 80%>
+For further support with this error code or any associated error codes, please look for a solution or make a support post on the [[https://forum.pretendo.network/|forum]].
+</WRAP>

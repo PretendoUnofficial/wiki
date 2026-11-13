@@ -1,0 +1,45 @@
+~~Title: Splatoon Game Support Status - Unofficial Pretendo Wiki ~~
+
+
+{{htmlmetatags>
+metatag-media-og:image=(https://pbs.twimg.com/profile_images/1268751147805880320/Q-sBgEr4_400x400.jpg)
+metatag-og:description=(Splatoon is mostly supported on Pretendo Network.)
+metatag-description=(Splatoon is mostly supported on Pretendo Network.)
+metatag-og:title=(Splatoon Game Support Status - Unofficial Pretendo Wiki)
+}}
+
+
+
+====== Splatoon Game Support Status ======
+{{:pretendo:game-support:2_mostly_supported.png?nolink&120|Mostly supported}}
+{{:pretendo:game-support:public.png?nolink&120|Public}}
+
+==== Supported Features ====
+
+    * Regular Battles
+    * Ranked Battles
+    * Squad Battles
+    * Private Battles
+    * Shops
+    * Plaza Posts
+
+==== Unsupported Features ====
+
+    * Splatfests
+    * Posting to Juxtaposition on SSSL
+    * SplatNet website
+
+==== Current Issues ====
+
+No issues.
+
+==== Modifications ====
+
+    * Rotation lengths are reduced to 2 hours on Pretendo Network, from 4 on Nintendo Network
+    * No Rank-based matchmaking in Ranked/Squad Battles
+    * [[https://forum.pretendo.network/t/splatoon-banned-stages-weekend-discussion/4714?u=gamersinternatio|Occasional events are hosted enabling users to play banned stage+mode combinations in Ranked Battles]]
+
+==== Common Error Codes ====
+
+    * [[ec:104-2210|104-2210]]
+    * [[https://forum.pretendo.network/t/-/6159/|118-xxxx]]

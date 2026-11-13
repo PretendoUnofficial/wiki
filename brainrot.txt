@@ -1,0 +1,7 @@
+{{htmlmetatags>
+metatag-robots=()
+metatag-media-og:image=(https://pbs.twimg.com/profile_images/1268751147805880320/Q-sBgEr4_400x400.jpg)
+metatag-og:description=(Just no)
+metatag-og:title=(Unofficial Pretendo Brainrot Wiki)
+}}
+Just No

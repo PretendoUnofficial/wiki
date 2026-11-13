@@ -1,0 +1,49 @@
+~~Title: Splatfests - Unofficial Pretendo Wiki ~~
+
+====== Splatfests ======
+
+
+{{htmlmetatags>
+metatag-media-og:image=(https://cloud.erdbeerbaerlp.de/s/MofHxp4PPGtiFAY/download)
+metatag-og:description=(List of Previous Splatfests that happened on Pretendo Network)
+metatag-description=(List of Previous Splatfests that happened on Pretendo Network)
+metatag-og:title=(Splatfests - Unofficial Pretendo Wiki)
+}}
+
+Here is a list of previous Splatfests that have happened on Pretendo Network exclusively.
+This wiki is not intended for and will not contain Splatfests of other revival services.
+
+
+**Currently, Splatfests are still being worked on.**
+**The date of the next Splatfest is unknown.**
+
+
+===== Official Splatfests =====
+
+There hasn't been any Splatfest of this category yet.
+
+===== Test Splatfests =====
+
+==== Rainy Day vs Rainy Night ====
+
+> This Splatfest was done as a test-run of the servers.
+
+**Time:** 14.06.2023 19:00 UTC - 20.06.2023 19:00 UTC
+
+**Winner:** None
+
+{{:pretendo:rdvsrn.png?nolink&400|}}
+
+
+----
+
+
+==== Pretendo A vs Pretendo B ====
+
+> This is the second test-splatfest. This Splatfest is only available to users with the tester role in the Discord.
+
+**Time:** 23.07.2026 18:40 UTC - 27.07.2026 08:00 UTC
+
+**Winner:** Not yet determined
+
+{{:pretendo:pretendo-a-b.png?nolink&400|}}

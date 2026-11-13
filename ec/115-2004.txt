@@ -1,0 +1,25 @@
+~~Title: Wii U Error-Code 115-2004 - Unofficial Pretendo Wiki ~~
+
+
+{{htmlmetatags>
+metatag-media-og:image=(https://pbs.twimg.com/profile_images/1268751147805880320/Q-sBgEr4_400x400.jpg)
+metatag-og:description=(Juxtaposition is not available for SSSL users. To access juxt, you will need to install Aroma and Inkay)
+metatag-description=(Juxtaposition is not available for SSSL users. To access juxt, you will need to install Aroma and Inkay)
+metatag-og:title=(Wii U Error-Code 115-2004 - Unofficial Pretendo Wiki)
+}}
+
+
+
+====== Wii U Error-Code 115-2004 ======
+
+Juxtaposition isn't available on SSSL.
+
+To use Juxtaposition, install the Aroma custom firmware on your Wii U using the instructions at https://wiiu.hacks.guide. Then, once you've finished that, get Inkay installed with the instructions on https://pretendo.network/docs/install/wiiu and change your DNS settings to auto-obtain.
+
+If you have any problems with modding your Wii U, you can get support on [[https://discord.gg/nintendohomebrew|Nintendo Homebrew]] or [[https://gbatemp.net|GBAtemp]].
+
+\\
+
+<WRAP center round info 80%>
+For further support with this error code or any associated error codes, please look for a solution or make a support post on the [[https://forum.pretendo.network/|forum]].
+</WRAP>

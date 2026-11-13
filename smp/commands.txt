@@ -1,0 +1,30 @@
+~~Title: Pretendo SMP User Commands - Unofficial Pretendo Wiki ~~
+
+
+{{htmlmetatags>
+metatag-media-og:image=(https://cloud.erdbeerbaerlp.de/s/MofHxp4PPGtiFAY/download)
+metatag-og:description=(This page lists most of the available commands every player can use)
+metatag-description=(This page lists most of the available commands every player can use)
+metatag-og:title=(Pretendo SMP User Commands - Unofficial Pretendo Wiki)
+}}
+
+====== User Commands ======
+
+Below is a list of helpful commands every user can execute:
+^ Command                         ^ Description                                                                                   ^
+| /spawn                          | Teleports to Spawn                                                                            |
+| /sethome                        | Sets your home point                                                                          |
+| /delhome                        | Deletes your home point                                                                       |
+| /home                           | Teleports to your home point                                                                  |
+| /pvp                            | Toggle your PVP status                                                                        |
+| /trigger color                  | Set your username color                                                                       |
+|  **Chest Protection**                                                                                                          ||
+| /htm set PUBLIC                 | Sets a container public (everyone can access)                                                 |
+| /htm set PRIVATE                | Sets a container private                                                                      |
+| /htm set KEY                    | Sets a container to require a key to open                                                     |
+| /htm trust <player>             | Trusts a player for a container                                                               |
+| /htm untrust <player>           | Removes player trust from a container                                                         |
+| /htm remove                     | Removes ALL protection from a container                                                       |
+| /htm transfer <player>          | Transfer container ownership to another player                                                |
+| /htm persist                    | When used, will make all /htm commands last until persist is turned off, for mass actions     |
+| /htm flag HOPPERS <true/false>  | Toggles Hopper usage on containers. Default: True                                             |

@@ -1,0 +1,27 @@
+~~Title: Verify-email - Unofficial Pretendo Wiki ~~
+
+
+{{htmlmetatags>
+metatag-media-og:image=(https://pbs.twimg.com/profile_images/1268751147805880320/Q-sBgEr4_400x400.jpg)
+metatag-og:description=(Pretendo Network email verification)
+metatag-description=(Pretendo Network email verification)
+metatag-og:title=(Email verification - Unofficial Pretendo Wiki)
+}}
+
+
+
+====== Email verification ======
+
+When email verification through the link in the email is down, it is still possible through entering the 6-digit code into a linked console. If the email has already been verified through one method, there's no need to verify it again unless you change the email.
+===== Nintendo 3DS =====
+
+  - Sign into the Pretendo Network ID, if you haven't already
+  - Open the Miiverse app from the Home Menu
+  - It should prompt for email verification. Select "Enter confirmation code"
+  - Enter the 6-digit code given in the email
+
+===== Wii U =====
+  - Sign into the Pretendo Network ID, if you haven't already
+  - Select "change users" on the Wii U Menu, then select the user whose account you wish to verify
+  - It should now prompt for email verification. Select "Enter confirmation code"
+  - Enter the 6-digit code given in the email.

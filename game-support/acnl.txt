@@ -1,0 +1,40 @@
+~~Title: Animal Crossing New Leaf Game Support Status - Unofficial Pretendo Wiki ~~
+
+
+{{htmlmetatags>
+metatag-media-og:image=(https://pbs.twimg.com/profile_images/1268751147805880320/Q-sBgEr4_400x400.jpg)
+metatag-og:description=(Animal Crossing New Leaf is mostly supported on Pretendo Network.)
+metatag-description=(Animal Crossing New Leaf is mostly supported on Pretendo Network.)
+metatag-og:title=(Animal Crossing New Leaf Game Support Status - Unofficial Pretendo Wiki)
+}}
+
+
+
+====== Animal Crossing: New Leaf Game Support Status ======
+{{:pretendo:game-support:2_mostly_supported.png?nolink&120|Mostly supported}}
+{{:pretendo:game-support:public.png?nolink&120|Public}}
+
+==== Supported Features ====
+
+    * Club Tortimer
+    * Messaging best friends
+    * Online visitors from other towns
+
+==== Unsupported Features ====
+
+    * Dream Suite
+    * Items/houses via SpotPass
+
+==== Current Issues ====
+
+No issues.
+
+==== Modifications ====
+
+No major modifications. In order to go online, you must use the plugin in Nimbus 2.0.0 or newer every time you wish to boot up New Leaf. For instructions, see the [[ec:002-0152|guidance for error code 002-0152]].
+
+==== Common Error Codes ====
+
+  * [[ec:002-0152|002-0152]]
+  * [[https://forum.pretendo.network/t/-/6159/|NAT type guide]] - for connection and matchmaking issues
+  * [[https://forum.pretendo.network/t/error-code-006-0102-in-animal-crossing-new-leaf/17060|006-0102]] - occurs when visiting or inviting online; update to Welcome Amiibo (version 1.5)

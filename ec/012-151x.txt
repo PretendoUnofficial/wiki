@@ -1,0 +1,25 @@
+~~Title: 3DS Error-Code 012-151x - Unofficial Pretendo Wiki ~~
+
+
+{{htmlmetatags>
+metatag-media-og:image=(https://pbs.twimg.com/profile_images/1268751147805880320/Q-sBgEr4_400x400.jpg)
+metatag-og:description=(Both of these error codes usually indicate an issue with the certificates for Juxtaposition. In both cases, these issues can be resolved usually by reinstalling Nimbus on your console.)
+metatag-description=(Both of these error codes usually indicate an issue with the certificates for Juxtaposition. In both cases, these issues can be resolved usually by reinstalling Nimbus on your console.)
+metatag-og:title=(3DS Error-Code 012-151x - Unofficial Pretendo Wiki)
+}}
+
+
+
+====== 3DS Error-Code 012-1510 and 012-1511 ======
+
+Both of these error codes usually indicate an issue with the certificates for Juxtaposition.
+
+For the former, it generally indicates that the certificate is corrupted. For the latter, it indicates that no certificate was found.
+
+In both cases, these issues can be resolved usually by reinstalling Nimbus on your console.
+
+\\
+
+<WRAP center round info 80%>
+For further support with this error code or any associated error codes, please look for a solution or make a support post on the [[https://forum.pretendo.network/|forum]].
+</WRAP>

@@ -1,0 +1,15 @@
+~~Title: 015-5008 - Unofficial Pretendo Wiki ~~
+
+
+{{htmlmetatags>
+metatag-media-og:image=(https://pbs.twimg.com/profile_images/1268751147805880320/Q-sBgEr4_400x400.jpg)
+metatag-og:description=(Sample description for social media)
+metatag-description=(Sample description for search engines)
+metatag-og:title=(015-5008 - Unofficial Pretendo Wiki)
+}}
+
+
+
+====== 015-5008 ======
+
+~~REDIRECT>ec:ban-codes~~

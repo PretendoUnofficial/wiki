@@ -1,0 +1,28 @@
+~~Title: User Spletz ~~
+
+{{htmlmetatags>
+metatag-robots=()
+}}
+
+====== Spletz ======
+
+Cool person who likes the Wii U. Maintainer of the Game Support Status page on this wiki.
+
+== My Research ==
+
+[[https://docs.google.com/spreadsheets/d/1rlKP5vXUfyj3PtKRNtujziHf7AIE1NerhVKNAXsB5c4/edit?usp=sharing|Wii U Disc Firmware Updates & Cafe OS SDK Version]]
+
+[[https://docs.google.com/spreadsheets/d/10Fxm6XK8QoKbB1kxQQm5mzRkO69id0uOZwlNnceXaPw/edit?usp=sharing|Wii U GamePad Serial Number Database]] - Please contribute to this database!
+
+
+== Pretendo UI Mods ==
+[[https://gamebanana.com/mods/517127|Mario Kart 8 Pretendo UI]]\\
+[[https://gamebanana.com/mods/562022|New Super Mario Bros. U Pretendo UI]]\\
+
+I aim to have a mod for every game that has some mention of Miiverse or Nintendo Network. They will eventually all be released in one big modpack. It will work for all regions. Once ContentRedirectionModule on Aroma gets updated and SDCafiine supports applets, I will also release a full Wii U theme for Pretendo.
+
+== My Other Mods ==
+
+[[https://gamebanana.com/mods/556034|Side Order Weapons Expansion]]\\
+[[https://gamebanana.com/mods/489606|Mario Kart 8 Wii U UI]]
+

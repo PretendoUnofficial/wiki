@@ -1,0 +1,64 @@
+~~Title: 3DS & Wii U Error-Code x01-0502 - Unofficial Pretendo Wiki ~~
+
+
+{{htmlmetatags>
+metatag-media-og:image=(https://pbs.twimg.com/profile_images/1268751147805880320/Q-sBgEr4_400x400.jpg)
+metatag-og:description=(Some steps you can try when you get the 0502 error code on Wii U/3DS ;))
+metatag-description=(Some steps you can try when you get the 0502 error code on Wii U/3DS ;))
+metatag-og:title=(3DS & Wii U Error-Code x01-0502 - Unofficial Pretendo Wiki)
+}}
+
+<WRAP center round important 80%>
+There recently was a change on the friends server to fix this error. It may, however, still appear due to network issues.
+</WRAP>
+
+
+====== 3DS & Wii U Error-Code 001-0502 and 101-0502 ======
+
+If you are in Russia or another country which blocks Cloudflare, you will be unable to access Pretendo Network without a workaround, such as a VPN.
+
+Using the proxy settings inside of System Settings is only an HTTP/HTTPS proxy and not a SOCKS proxy, so game traffic will not go through the proxy server. This is a flaw with Nintendo's implementation of proxies.
+
+If you are experiencing this error-code and Cloudflare traffic is not blocked in your country, below is a small guide on how to potentially fix the x01-0502 error.
+
+====== Wii U (101-0502) ======
+  * Go to system settings > internet > connect to the internet > connection list > your WiFi network > change settings
+  * Go to IP Address and set it to Do not auto-obtain
+  * Run ''ipconfig'' on command prompt on a windows computer or go to your WiFi network settings/information on your smartphone
+  * Set your IP Address, Subnet Mask and Gateway (may be called router on other devices) to them.
+  * Change the last 3 (sometimes 1) digits of your IP Address by 1 or 2 numbers and run a connection test until you successfully connect to the internet
+
+**If it doesn't work**, you can go to your WiFi network admin settings (usually easily accessed on a web browser. Google how to do it for your specific network provider/modem).
+
+You should then be able to check the last digits of other devices on your network and use that to figure out which numbers you can and can't set it to, as the last digits cannot be in use by another device on the network. 
+
+You also should be able to see your Wii U's original address, so you know not to set it to that number.
+
+
+If done correctly, you should be able to connect to any game and service without receiving an 0502 error.
+
+After closing a game or restarting your Wii U, you will need to go back into your internet settings and change your IP Address back to your Wii U's original number. For example, I personally alternate between .0.3 and .0.8 each time I need to fix the issue.
+
+Hopefully this works! 
+
+Further testing is required to check how foolproof this current fix is, but it appears to be very promising. 
+
+So if this doesn't work for you, assume you have done something incorrectly.
+
+====== For 3DS users (001-0502) ======
+
+The fix works in mostly the same way as the Wii U one. For me though, I had to change back to my original IP after attempting a connection with the new one. (i.e., attempt to connect to a service, e.g., MK7, get 001-0502, return to system settings, and change the IP back to its original number.) For me, I changed it from .0.203, the original address on my network, to .0.205, (an unused 3-digit host ID on my network that is similar to the original one). Then I changed back to my original IP and connected to Pretendo Network successfully. 
+
+It may be worth noting that I also changed my MTU value, which I'm not sure did anything, but couldn't hurt to try as it simply increases the maximum packet size that can be transferred on your connection.
+----
+
+For both 3DS and Wii U users, if you fail the connection test (where it connects to the modem but not the internet), then you've done something wrong in configuring your IP and it is not a Pretendo or Aroma issue.
+
+----
+Guide written by ''@spletz_''
+
+\\
+
+<WRAP center round info 80%>
+For further support with this error code or any associated error codes, please look for a solution or make a support post on the [[https://forum.pretendo.network/|forum]].
+</WRAP>

@@ -1,0 +1,27 @@
+~~Title: 3DS Error-Code 022-2482 - Unofficial Pretendo Wiki ~~
+
+
+{{htmlmetatags>
+metatag-media-og:image=(https://pbs.twimg.com/profile_images/1268751147805880320/Q-sBgEr4_400x400.jpg)
+metatag-og:description=(This error code means that the game is not supported on Pretendo Network at this time, or you don't have access to it)
+metatag-description=(This error code means that the game is not supported on Pretendo Network at this time, or you don't have access to it)
+metatag-og:title=(3DS Error-Code 022-2482 - Unofficial Pretendo Wiki)
+}}
+
+
+
+====== 3DS Error-Code 022-2482 ======
+
+This game isn't supported on Pretendo Network at this time. Please check out the [[:game-support-status|Game Support Status page]] for a list of currently supported games.
+
+If the game you're attempting to play is supposed to be supported and it's a tester-only game, make sure [[https://forum.pretendo.network/t/-/4955|you're a donator at the Super Mario tier or above]] and make sure your account is configured to connect to beta servers.
+
+/* Just to remind people, whitelisting is NOT required as 022 codes are related to your NNID/PNID rather than ACT I believe which is 002 */
+
+If it's not a tester-only game, make a support post on the forum with the title ID for the game that you're trying to play online for your region.
+
+\\
+
+<WRAP center round info 80%>
+For further support with this error code or any associated error codes, please look for a solution or make a support post on the [[https://forum.pretendo.network/|forum]].
+</WRAP>

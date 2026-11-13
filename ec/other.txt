@@ -1,0 +1,42 @@
+~~Title: Other Pretendo Errors - Unofficial Pretendo Wiki ~~
+
+
+{{htmlmetatags>
+metatag-media-og:image=(https://pbs.twimg.com/profile_images/1268751147805880320/Q-sBgEr4_400x400.jpg)
+metatag-og:description=(Common Pretendo errors which don't output with an error code)
+metatag-description=(Common Pretendo errors which don't output with an error code)
+metatag-og:title=(Other Pretendo Errors - Unofficial Pretendo Wiki)
+}}
+
+
+
+====== Other Pretendo Errors ======
+This page is for errors that occur on Pretendo Network that do not provide an error code.
+
+===== Nintendo 3DS =====
+
+==== Nimbus Not Switching Networks ====
+This happens if the Pretendo patches are not being applied properly for whatever reason. To start, check to see if Luma3DS is running from the SD card by holding SELECT while booting the console. At the bottom of the screen there should be a yellow text string that says "Booted from SD via B9S." If it says "Booted from CTRNAND via B9S." then Luma3DS will have to be re-added to the SD card by following [[https://3ds.hacks.guide/restoring-updating-cfw.html|this guide]]. If after following this the console still boots from CTRNAND, or if something else is stated, then you should ask in the [[https://discord.gg/nintendohomebrew|Nintendo Homebrew Discord server]] for further assistance.
+
+If this occurs while Luma3DS is running from the SD card, then try reinstalling Pretendo. If this error still occurs, ask for further assistance on [[https://forum.pretendo.network/|the Pretendo forums]].
+==== "Your Luma3DS version is out of date" in Nimbus ====
+The installed version of Luma3DS is too outdated for Pretendo to work, as Pretendo requires Luma3DS 13.0 or newer. To fix this, update Luma 3DS by following [[https://3ds.hacks.guide/restoring-updating-cfw.html|this guide]]. If Luma3DS is still not updated after attempting to update it then ask in the [[https://discord.gg/nintendohomebrew|Nintendo Homebrew Discord server]] for further assistance.
+
+==== "For Nimbus to work, both of these Luma3DS options should be enabled." ====
+At least one of the ''Enable external FIRMs and modules'' and ''Enable game patching'' options is disabled. To fix, enter Luma3DS settings by holding SELECT while booting, and make sure **both** of the 2 options are enabled (they will be marked with an "x" if they are).
+
+==== "The course data is corrupt." in Super Mario Maker ====
+The current version of Super Mario Maker is outdated. To update, switch to Nintendo Network, then install the update from the Nintendo eShop.
+===== Wii U =====
+
+==== Inkay not appearing in Aroma plugin menu ====
+Ensure the ''Inkay-pretendo.wps'' file is in the ''wiiu/environments/aroma/plugins'' folder on the console's SD card. Also ensure that Aroma is up to date.
+
+==== "You cannot use this Nintendo Network ID on this console" ====
+You may be trying to access a Pretendo Network ID while on Nintendo Network. If using Inkay, ensure the "Connect to the Pretendo network" option is set to true. If using SSSL, ensure that the primary DNS is set to '''88.198.140.154'''. If it is, your ISP may be blocking the use of custom DNSs and you will have to [[https://wiiu.hacks.guide|mod your console]] and [[https://pretendo.network/docs/install/wiiu#inkay|install Inkay]].
+\\
+
+<WRAP center round info 80%>
+For further support with this error code or any associated error codes, please look for a solution or make a support post on the [[https://forum.pretendo.network/|forum]].
+</WRAP>
+

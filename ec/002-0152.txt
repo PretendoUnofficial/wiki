@@ -1,0 +1,55 @@
+~~Title: 3DS Error-Code 002-0152 - Unofficial Pretendo Wiki ~~
+
+
+{{htmlmetatags>
+metatag-media-og:image=(https://pbs.twimg.com/profile_images/1268751147805880320/Q-sBgEr4_400x400.jpg)
+metatag-og:description=(This error code occurs when you try to access a game server without required custom patches. (like RCE patches))
+metatag-description=(This error code occurs when you try to access a game server without required custom patches. (like RCE patches))
+metatag-og:title=(3DS Error-Code 002-0152 - Unofficial Pretendo Wiki)
+}}
+
+
+
+====== 3DS Error-Code 002-0152 ======
+
+<WRAP center round todo 60%>
+This page is not yet finished. Some information may still be inaccurate or missing.
+</WRAP>
+
+
+This error code occurs when you try to access a game server without the required custom patches.
+
+One example for custom patches would be an RCE Fix.
+
+The patches are usually included in the default setup of Nimbus.
+
+Games which require Nimbus 2.0 for custom patches:
+
+- Animal Crossing: New Leaf (Both original release and 'Welcome Amiibo' re-release)
+
+You can activate the Nimbus plugin and play online for games which require it by following these steps:
+	- Open Nimbus
+	- Press Y to launch the plugin
+	- Press the HOME button and open the game
+You should see the top screen flash blue upon opening the game and eventually see ''Plugin loaded!''. You should now be able to access online features in-game.
+
+//**Note: You will need to launch the Nimbus plugin every time you wish to access online features. The plugin is not permanent**//
+
+===== Troubleshooting =====
+Open Nimbus and check the version number; it will be displayed in one of the corners on the top-screen. Nimbus must be **at least** version 2.0 to have the custom patches.
+
+If Nimbus is version 2.0 or higher, make sure that Luma3DS is on the latest version and the plugin loader is enabled.
+
+If the plugin still does not load, or you are on Nimbus 1.6.1 or below, follow these steps to reinstall Nimbus:
+
+	- Open Universal Updater and search "nimbus", without quotes
+	- Reinstall Nimbus. If you're not sure which one to pick, choose the ''.cia''. You don't need to uninstall Nimbus first
+	- Open Nimbus and press START to finish the update process
+	- Open Nimbus again and make sure Pretendo is selected
+	- Try launching the plugin and opening the game again
+
+//**Note: If updating from Nimbus 1.6.1 or earlier, if you have a PNID linked you need to press B at step 3 to migrate your PNID to the new version. Failure to do this will result in your PNID being unlinked and you will need to link it again**//
+
+<WRAP center round info 80%>
+For further support with this error code or any associated error codes, please look for a solution or make a support post on the [[https://forum.pretendo.network/|forum]].
+</WRAP>

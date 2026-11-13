@@ -1,0 +1,196 @@
+FIXME Mae popeth yn cael ei gyfieithu i'r eithaf, Os gwelwch yn dda gywir os byddwch yn dod o hyd i unrhyw gamgymeriadau, Bydd yn wych. - dk.dll/ Sêttar
+
+FIXME Everything is translated, Please correct if you find a mistake, It will be greatful. - dk.dll/Sětt
+
+NOTE: Yes and no's will be kept in english, as they confuse people.
+
+NODYN: Bydd Yes and no yn cael eu cadw yn Saesneg, gan eu bod yn drysu pobl.
+
+~~Title: Statws Cymorth Gêm - Unofwcial Pretendo Wici ~~
+
+====== Statws Cymorth Gêm Pretendo  ======
+
+{{htmlmetatags>
+metatag-media-og:image=(https://cloud.erdbeerbaerlp.de/s/MofHxp4PPGtiFAY/download)
+metatag-og:description=(Rhestr o gemau a gefnogir gan Pretendo Network, gan gynnwys statws mynediad cyfredol)
+metatag-description=(Rhestr o gemau a gefnogir gan Pretendo Network, gan gynnwys statws mynediad cyfredol)
+metatag-og:title=(Statws Cymorth Gêm - Wici Pretendo answyddogol)
+}}
+
+Mae hon yn rhestr answyddogol o ba gemau yn cael eu cefnogi a phwy all gael mynediad atynt.
+
+i' gael statws ar gynnydd datblygiad, ewch i https://pretendo.network/progress (Cofiwch fod y wefan yn hen ffasiwn ac nid yw'n hollol gywir!)
+
+__**Mae rhywfaint o'r cyfieithiad hwn wedi cael cymorth cyfieithiad, gan fod y cyfieithydd yn siarad Cymraeg y Wladfa. Cysylltwch â'r perchennog neu'r dk.dll am gymorth ar y cyfieithiad hwn!**__
+
+==== Nintendo 3DS ====
+
+<sortable>
+^ Gêm / Gwasanaeth                       ^ Statws            ^ Nodweddion gweithio presennol                                                                                                                                                                                                                                            ^
+| Account Settings<sup>1</sup>           | Yn Datblygu*      |                                                                                                                                                                                                                                                                          |
+| Animal Crossing: New Leaf              | Yn Datblygu       |                                                                                                                                                                                                                                                                          |
+| Dr. Mario: Miracle Cure                | Profwr'yn-unig    | Wedi derbyn cymuned yn ddiweddar, dim chwarae ar-lein.                                                                                                                                                                                                                   |
+| Friend List                            | Cyhoeddus         | Nid yw'n dangos gemau ffrindiau yn chwarae os nad ydych yn berchen arnynt, yn hytrach yn dangos "this title cannot be obtained".                                                                                                                                         |
+| IRONFALL: Invasion                     | Cyhoeddus         |                                                                                                                                                                                                                                                                          |
+| Juxtaposition<sup>2</sup>              | Cyhoeddus         | Popeth ac eithrio sgrinluniau, sydd ar hyn o bryd yn cael ei ddatblygu. Mae Juxtaposition hefyd ar hyn o bryd yn ansefydlog ar fodelau Old Nintendo 3DS.                                                                                                                 |
+| Kid Icarus: Uprising                   | Cyhoeddus         |                                                                                                                                                                                                                                                                          |
+| Luigi's Mansion 2/Dark Moon            | Profwr'yn-unig    |                                                                                                                                                                                                                                                                          |
+| Mario Kart 7                           | Cyhoeddus         | Gweithio'n llawn, ac eithrio cymunedau a data ysbrydion                                                                                                                                                                                                                  |
+| Mario vs. Donkey Kong: Tipping Stars   | Profwr'yn-unig    | Unknown                                                                                                                                                                                                                                                                  |
+| Monster Hunter 3 (tri-) G              | Cyhoeddus         | Gweinyddwr lawrlwytho ar gyfer DLC yn unig, mae angen ailgyfeirio DNS (DNS: 34.75.107.68). Sylwer: nid yw'r gwasanaeth DNS hwn yn gysylltiedig â Pretendo.                                                                                                               |
+| Monster Hunter 3 Ultimate              | Cyhoeddus         | Gweinyddwr lawrlwytho ar gyfer DLC yn unig, mae angen ailgyfeirio DNS (DNS: 34.75.107.68). Sylwer: nid yw'r gwasanaeth DNS hwn yn gysylltiedig â Pretendo.                                                                                                               |
+| Monster Hunter 4G                      | Cyhoeddus         | Mae chwarae ar-lein yn gweithio gyda chefnogaeth ychwanegol i chwarae gyda MH4U. Mae gweinydd lawrlwytho ar gyfer Cynnwys y gellir ei lawrlwytho (DLC) yn gofyn am ailgyfeirio DNS (DNS: 34.75.107.68). Sylwer: nid yw'r gwasanaeth DNS hwn yn gysylltiedig â Pretendo.  |
+| Monster Hunter 4 Ultimate              | Cyhoeddus         | Mae chwarae ar-lein yn gweithio gyda chefnogaeth ychwanegol i chwarae gyda MH4G. Mae angen gweinyddwr lawrlwytho ar gyfer ailgyfeirio DNS Cynnwys y gellir ei lawrlwytho (DLC) (DNS: 34.75.107.68). Sylwer: nid yw'r gwasanaeth DNS hwn yn gysylltiedig â Pretendo.      |
+| Nintendo Badge Arcade                  | Heb ei gadarnhau  | PWYSIG: Gweler https://shorturl.at/jCXhd                                                                                                                                                                                                                                 |
+| Pokémon Omega Ruby & Alpha Sapphire    | Profwr'yn-unig    | Wonder Trade, PSS (partially).                                                                                                                                                                                                                                           |
+| Pokémon Rumble World                   | Cyhoeddus         | SpotPass ddim yn gweithio ar hyn o bryd                                                                                                                                                                                                                                  |
+| Pokémon Sun & Moon                     | Heb ei gadarnhau  |                                                                                                                                                                                                                                                                          |
+| Pokémon X & Y                          | Profwr'yn-unig    | Wonder Trade, PSS (partially).                                                                                                                                                                                                                                           |
+| RPG Maker Fes                          | Mewn Datblygu     |                                                                                                                                                                                                                                                                          |
+| Steel Diver: Sub Wars                  | Cyhoeddus         |                                                                                                                                                                                                                                                                          |
+| Super Mario Maker                      | Cyhoeddus         | Lefelau chwilio a chwarae, 100 Mario Challenge                                                                                                                                                                                                                           |
+| Super Smash Bros. for Nintendo 3DS     | Profwr'yn-unig    |                                                                                                                                                                                                                                                                          |
+| System Transfer                        | Heb ei gadarnhau  | PWYSIG: Gweler'a'dda https://shorturl.at/90KZs                                                                                                                                                                                                                           |
+| Team Kirby Clash Deluxe                | Cyhoeddus         | SpotPass ddim yn gweithio ar hyn o bryd                                                                                                                                                                                                                                  |
+| The Legend of Zelda: Tri Force Heroes  | Cyhoeddus         |                                                                                                                                                                                                                                                                          |
+| Super Street Fighter IV                | Profwr'yn-unig    | Hyd yn hyn mae'n ymddangos bod y nodwedd wedi'i chwblhau, mae angen mwy o brofion.                                                                                                                                                                                       |
+</sortable>
+
+==== Wii U ====
+
+<sortable>
+^ Game / Service                              ^ Status            ^ SSSL                ^ Currently Working Features                                                                                                                                                                                                                          ^
+| Account Settings                            | Cyhoeddus         | No                  |                                                                                                                                                                                                                                                     |
+| Dr. Luigi                                   | Tester yn unig    | Yes*                | Worldwide Matchmaking, leaderboards. (Ystafelloedd nad ydynt yn gweithio ar hyn o bryd).                                                                                                                                                            |
+| Friend List                                 | Cyhoeddus         | Yes                 | Yn hongian ar lwyth, yn mynd yn sownd ar y brif sgrin, neu'n dangos gwall ar adegau. Wrth dderbyn cais ffrind, mae'r defnyddiwr yn dangos fel "???" Hyd nes y bydd yn ailgychwyn.                                                                   |
+| Game & WARIO                                | Cyhoeddus         | No*                 |                                                                                                                                                                                                                                                     |
+| Juxtaposition<sup>2</sup>                   | Cyhoeddus         | Swyddi yn y-gêm-yn unig  |                                                                                                                                                                                                                                                     |
+| Mario Kart 8                                | Cyhoeddus         | Yes                 | Popeth heblaw llwytho MKTV YouTube. Rhai problemau gydag ymuno ag ystafelloedd ffrind                                                                                                                                                               |
+| Mario vs. Donkey Kong: Tipping Stars        | Tester yn unig    | Yes                 | Anhysbys                                                                                                                                                                                                                                            |
+| Monster Hunter 3 Ultimate                   | Cyhoeddus         | No                  | Dim chwarae ar-lein, Gweinydd llwytho i lawr yn unig. Mae angen ailgyfeirio DNS (DNS: 34.75.107.68). Sylwer: nid yw'r gwasanaeth DNS hwn yn gysylltiedig â Pretendo.                                                                                |
+| Minecraft - Wii U Edition                   | Cyhoeddus         | Yes                 | Gwallau gweinydd Buggy o bryd i'w gilydd. Mae gweinyddwyr yn ailgychwyn bob wythnos ddydd Mawrth, [[https://forum.pretendo.network/t/updates-on-current-minecraft-wii-u-server-issues/8416?u=gamersinternatio|fel y nodwyd o'r Fforymau Pretendo]].  |
+| NES REMIX 1 and 2                           | Cyhoeddus         | Yes                 |                                                                                                                                                                                                                                                     |
+| Pikmin 3                                    | Cyhoeddus         | Yes*                | Mae swyddi KopPad i Juxtaposition yn cael ei gefnogi'n llawn, yn ogystal â safleoedd byd-eang ar gyfer teithiau.                                                                                                                                    |
+| Pokkén Tournament                           | Cyhoeddus         | Yes*                |                                                                                                                                                                                                                                                     |
+| Puyo Puyo Tetris                            | Mewn datblygiad   | Yes*                |                                                                                                                                                                                                                                                     |
+| Splatoon                                    | Cyhoeddus         | Yes                 | Mae popeth ond Splatfests. Brwydrau ranked yn cael eu cymysgu â rhengoedd eraill                                                                                                                                                                    |
+| Super Mario 3D World                        | Cyhoeddus         | Yes*                | Mae gwylio a phostio i Juxtaposition yn gyhoeddus. Mae Ghost Miis a stampiau yn cael eu cefnogi'n llawn.                                                                                                                                            |
+| Super Mario Maker                           | Cyhoeddus         | Yes                 | Lefelau chwilio a chwarae, lefelau llwytho i fyny                                                                                                                                                                                                   |
+| Super Smash Bros. for Wii U                 | Tester yn unig    | Yes                 | Nid yw'r cam Miiverse yn gweithio, nid yw Concwest na Spectating.                                                                                                                                                                                   |
+| Wii Sports Club                             | Heb ei gadarnhau  | Yes*                | Ni fydd creu cymunedau Juxtaposition yn debygol o weithredu ar gyfer SSSL pan gânt eu cefnogi.                                                                                                                                                      |
+| Wii U Chat                                  | Tester yn unig    | Yes                 |                                                                                                                                                                                                                                                     |
+| New Super Mario Bros. U                     | Mewn datblygiad*  | Yes*                | Dim cefnogaeth Miiverse yn y gêm eto.                                                                                                                                                                                                               |
+| New Super Luigi U                           | Mewn datblygiad*  | Yes*                | Dim cefnogaeth Miiverse yn y gêm eto.                                                                                                                                                                                                               |
+| New Super Luigi U + New Super Mario Bros U  | Mewn datblygiad*  | Yes*                | Dim cefnogaeth Miiverse yn y gêm eto.                                                                                                                                                                                                               |
+| Yoshi's Woolly World                        | Cyhoeddus         | Yes*                | Cefnogir postio i Juxtaposition, gan gynnwys gyda stampiau.                                                                                                                                                                                         |
+| The Legend of Zelda: The Wind Waker HD      | Cyhoeddus         | Yes*                | Cefnogir pyst Juxtaposition trwy Boteli Tingle, gan gynnwys gyda Pictographs.                                                                                                                                                                       |
+| Mario Party 10                              | Heb ei gadarnhau  | Yes*                | Heb ei gadarnhau, mae rhywun os gwelwch yn dda yn cyfrannu. (Llwytho sgrin Swyddi Miiverse, postio i Juxtaposition?)                                                                                                                                |
+| Xenoblade Chronicles X                      | Heb ei gadarnhau  | Yes*                | Heb ei gadarnhau, mae rhywun os gwelwch yn dda yn cyfrannu. (Adroddiadau BLADE?)                                                                                                                                                                    |
+| Game & Wario                                | Heb ei gadarnhau  | Yes*                | Heb ei gadarnhau, mae rhywun os gwelwch yn dda yn cyfrannu. (Miiverse Sketch minigame?)                                                                                                                                                             |
+| Hyrule Warriors                             | Heb ei gadarnhau  | Yes*                | Heb ei gadarnhau, mae rhywun os gwelwch yn dda yn cyfrannu. (Ailgyfeiriad oddi wrth Juxtaposition?)                                                                                                                                                 |
+</sortable>
+
+* = Heb ei gadarnhau, cyfrannwch trwy brofi a diweddaru'r dudalen hon. ;-)\\
+<sup>1</sup> Os ydych chi am newid eich gwybodaeth PNID gan ddefnyddio Nintendo 3DS neu'r wefan (fel eich gwlad / DOB), rhaid i chi ei berfformio ar gonsol wrth greu PNID neu ddefnyddio Gosodiadau Cyfrif ar Wii U gan ddefnyddio Inkay.\\
+<sup>2</sup> **Juxt/Juxtaposition yw'r Pretendo Miiverse!!**\\
+
+I ddefnyddio neu chwarae unrhyw beth sydd wedi'i farcio fel "Profwr yn Unig", bydd angen i chi [[https://pretendo.network/account/upgrade|uwchraddio eich cyfrif Pretendo]].\\ Mae mwy o wybodaeth am roi (// Pwysig i ddefnyddwyr Nintendo 3DS//) ar gael yn y [[https://forum.pretendo.network/t/-/4955|Cwestiynau Cyffredin Tanysgrifiadau Rhodd]].
+
+==== Gemau a gwasanaethau a fydd yn aros heb gefnogaeth am gyfnod amhenodol ===
+
+<sortable>
+^ Gêm / Gwasanaeth                ^ Platfform  ^ Rheswm                                                                   ^
+| Call of Duty: Black Ops II  | Wii U     | Defnyddio gweinyddwyr trydydd parti (Activision) yn hytrach na Rhwydwaith Nintendo yn unig.  |
+| Call of Duty: Ghosts        | Wii U     | Defnyddio gweinyddwyr trydydd parti (Activision) yn hytrach na Rhwydwaith Nintendo yn unig.  |
+| Nintendo TVii               | Wii U     | "Does gennym ni ddim cynlluniau i gefnogi TVii ar hyn o bryd." -Jon                    |
+| Wii Karaoke U               | Wii U     | Materion hawlfraint gyda chaneuon.                                             |
+| Wii Street U                | Wii U     | Yn defnyddio APIs Google (Costau yn ôl faint o ddefnydd, yn ôl pob tebyg yn anodd beth bynnag)  |
+| MKTV YouTube uploads        | Wii U     | Mae'n defnyddio APIs Google (am ddim, ond yn annifyr iawn)                             |
+</sortable>
+
+==== Juxtaposition Cymunedau ====
+
+<sortable>
+^ Community                                                                                ^ Notes                                                                          ^
+| [[https://juxt.pretendo.network/titles/1571389680870625280|Breath of the Wild]]          |           |
+| [[https://juxt.pretendo.network/titles/1571996108970921984|Splatoon]]                    | Llawn swyddogaethol gyda plaza yn y gêm.|
+| [[https://juxt.pretendo.network/titles/1571996748128325632|Nintendo Land]]               |           |
+| [[https://juxt.pretendo.network/titles/1572000401979478016|Animal Crossing Plaza]]       |           |
+| [[https://juxt.pretendo.network/titles/1572000928079417344|Mario Kart 8]]                | Llawn swyddogaethol gyda stampiau, ysbrydion Treial Amser a Thwrnameintiau.|
+| [[https://juxt.pretendo.network/titles/1572001336264888320|Super Smash Bros.]]  | Cynrychiolydd y ddau fersiynau Wii chi a Nintendo 3DS. Dim cefnogaeth Miiverse yn y gêm eto.|
+| [[https://juxt.pretendo.network/titles/1572001662699180032|Super Mario Maker]]| Cynrychiolydd y ddau fersiynau Wii chi a Nintendo 3DS. Dim cefnogaeth Miiverse yn y gêm eto.|
+| [[https://juxt.pretendo.network/titles/1572001959412633600|Homebrew Community]]          |           |
+| [[https://juxt.pretendo.network/titles/1572002220340285440|Art Community]]               |           |
+| [[https://juxt.pretendo.network/titles/1572002877713551360|Sonic the Hedgehog]]          | Cynrychiolydd yr holl gemau Sonic the Hedgehog games.          |
+| [[https://juxt.pretendo.network/titles/1572005278919036928|Minecraft]]                   |           |
+| [[https://juxt.pretendo.network/titles/1377782196559024821|Announcements]]               | Ar gyfer cyhoeddiadau Juxtaposition swyddogol.|
+| [[https://juxt.pretendo.network/titles/1572061533524070400|Paper Mario Color Splash]]    |           |
+| [[https://juxt.pretendo.network/titles/1572063460689317888|The Wind Waker HD]]           | Llawn swyddogaethol gyda Tingle Bottles, yn ogystal â Pictographs.          |
+| [[https://juxt.pretendo.network/titles/1572065594784747520|Mario Party 10]]              |           |
+| [[https://juxt.pretendo.network/titles/1572068658316972032|Super Mario 3D World]]        | Llawn swyddogaethol gyda stampiau ac ysbryd Miis. |
+| [[https://juxt.pretendo.network/titles/1572071166103916544|New Super Luigi U]]           | Dim cefnogaeth Miiverse yn y gêm eto.         |
+| [[https://juxt.pretendo.network/titles/14866558073586666688|Mario vs Donkey Kong: Tipping Stars Community]] |Cynrychiolydd y ddau fersiwn Wii chi a Nintendo 3DS.|
+| [[https://juxt.pretendo.network/titles/1644505933105205248|The Legend of Zelda™: Twilight Princess HD]] |       |
+| [[https://juxt.pretendo.network/titles/1644509834994913280|Nintendo Badge Arcade]]       |           |
+| [[https://juxt.pretendo.network/titles/1644510400026382336|Pikmin™ 3]] | Mae swyddi camera KopPad yn gwbl weithredol. Mae safleoedd ar gyfer teithiau hefyd yn cael eu cefnogi. |
+| [[https://juxt.pretendo.network/titles/1644510743510519808|Yoshi's™ Woolly World]]       | Yn gwbl weithredol gyda stampiau.|
+| [[https://juxt.pretendo.network/titles/1644511370932260864|Wii Party™ U]]                |           |
+| [[https://juxt.pretendo.network/titles/1644511864169828352|Wii Sports™ Club]]            |           |
+| [[https://juxt.pretendo.network/titles/1644513006899564544|Xenoblade Chronicles™ X]]     |           |
+| [[https://juxt.pretendo.network/titles/1644514089512341504|Just Dance Community]]        | Cynrychiolydd yr holl gemau Just Dance ar Wii U.|
+| [[https://juxt.pretendo.network/titles/1681458272722358272|Wii Fit U]]                   |           |
+| [[https://juxt.pretendo.network/titles/1731456214157627392|The Legend of Zelda: Tri Force Heroes]] |        |
+| [[https://juxt.pretendo.network/titles/3579288080|Game & Wario]]                         |           |
+| [[https://juxt.pretendo.network/titles/3346905043|NES REMIX Series]]                     |           |
+| [[https://juxt.pretendo.network/titles/4017935777|Dr. Luigi]]                            |           |
+| [[https://juxt.pretendo.network/titles/2622241962|New Super Mario Bros. U]]              | Dim cefnogaeth Miiverse yn y gêm eto. |
+| [[https://juxt.pretendo.network/titles/2551084080|Juxtaposition Code of Conduct]]        |           |
+| [[https://juxt.pretendo.network/titles/1543471474|Pokémon X and Y]]                      |           |
+| [[https://juxt.pretendo.network/titles/517024427|Pokémon Omega Ruby and Alpha Sapphire]] |           |
+| [[https://juxt.pretendo.network/titles/3231314785|Pokémon Sun and Moon]]                |           |
+| [[https://juxt.pretendo.network/titles/2020921929|Pokémon Rumble World]]                 |           |
+| [[https://juxt.pretendo.network/titles/2084960815|Tomodachi Life]]                       |           |
+| [[https://juxt.pretendo.network/titles/248474398|Dr. Mario: Miracle Cure]]               |           |
+| [[https://juxt.pretendo.network/titles/3441414102|Mario Kart 7]]                         | Dim cefnogaeth Miiverse yn y gêm eto.|
+| [[https://juxt.pretendo.network/titles/241555747|Hyrule Warriors]]                       | Cynrychiolydd y ddau fersiynau Wii chi a Nintendo 3DS.|
+| [[https://juxt.pretendo.network/titles/3286511165|Pokkén Tournament]]                    |            |
+| [[https://juxt.pretendo.network/titles/1946595164|Monster Hunter 3 Ultimate]]            |            |
+| [[https://juxt.pretendo.network/titles/102955075|Pokémon Rumble Blast]]                  |            |
+| [[https://juxt.pretendo.network/titles/1653390928|Team Kirby Clash Deluxe]]              |            |
+| [[https://juxt.pretendo.network/titles/991047680|Kid Icarus: Uprising]]                  |            |
+</sortable>
+                       
+Sylwch mai cymunedau a restrir yma yw eu henw a roddir ar Juxtaposition, yn hytrach nag enw gwirioneddol y gêm. (e.e. gelwir y gymuned ar gyfer "The Legend of Zelda: Breath of the Wild" yn syml "Breath of the Wild")
+==== Additional FAQ ====
+
+=== "Fydd xxxx yn cael ei gefnogi?" ===
+Bydd yr holl gemau a gwasanaethau a ddefnyddiodd Dim ond Rhwydwaith Nintendo yn cael eu cefnogi yn y pen draw. Ni fydd cefnogaeth ar gyfer gemau nad oeddent yn defnyddio Rhwydwaith Nintendo yn unig yn cael ei ddarparu nes bydd rhybudd pellach. \\ 
+
+=== "Ydych chi'n gwybod pryd fydd xxxx yn cael ei ryddhau? A oes amserlen amcangyfrifedig i pryd y bydd yn gyflawn?" ===
+Ni roddir dyddiadau rhyddhau amcangyfrifedig i unrhyw gemau na gwasanaethau oni bai eu bod wrthi'n cael eu datblygu/profi a'u bod yn paratoi i gael eu rhyddhau i'r profwyr neu'r cyhoedd.\\ 
+
+=== "Pryd fydd [gêm] cymuned yn cael ei ychwanegu at Juxtaposition?" ===
+Edrychwch ar y ddau ateb cyntaf. Diolch.\\
+
+=== "Pryd fydd Juxtaposition ar Old Nintendo 3DS yn sefydlog?" ===
+Edrychwch ar y ddau ateb cyntaf!\\
+
+=== "Alla i ddim fforddio rhoi..." ===
+''Bydd popeth yn hollol rhad ac am ddim yn y pen draw, fodd bynnag, felly os nad oes gennych frys, gallwch chi bob amser aros nes ei fod allan o brofi ac ar gael i'r gweinyddwyr cyhoeddus :)'' ~@maisiemarlowe\\ 
+
+=== "A fydd Gosodiadau Cyfosodiad neu Gyfrif yn cael eu cefnogi gan SSSL?" ===
+Na. Mae'n **//uchel // *** argymhellir bod eich [[https://wiiu.hacks.guide|mod eich consol]] ar gyfer y profiad gorau tra'n defnyddio Pretendo, ac fel bonws byddwch yn cael i ddefnyddio'r holl bethau cŵl eraill sydd gan Wii U modded i'w gynnig!\\ 
+
+=== "A fydd y Nintendo 3DS byth yn cefnogi SSSL?" ===
+Na. Nid oes unrhyw ecsbloetio SSL hysbys ar y Nintendo 3DS / 2DS ar hyn o bryd ac mae'n debygol na fydd un i'w ganfod yn y dyfodol (er ei fod yn /// yn bosibl ///, ** peidiwch â chael eich gobeithion i fyny**).\\ 
+
+=== "A fydd consolau eraill yn cael eu cefnogi? Fel y Nintendo Switch pan fydd yn cau?" ===
+Yn gyntaf oll, na, nid yw Pretendo yn bwriadu cefnogi'r Nintendo Switch nac unrhyw gonsol arall ar hyn o bryd. Yn ail, mae'n debyg na fydd gwasanaethau Nintendo Switch Online yn cau am amser hir / iawn.\\
+
+=== "A fydd [gêm na chafodd erioed gefnogaeth ar-lein] yn cael ei gefnogi?" ===
+Na. Os nad oedd erioed wedi cael cefnogaeth i unrhyw nodweddion ar-lein o gwbl, yna mae allan o gwmpas i Pretendo.\\ 
+
+=== "Beth sy'n cymryd mor hir?" "Brysiwch i fyny!" "Rwy'n ddiamynedd iawn!!" ===
+''Ar gyfer pobl sy'n cwyno am amseroedd aros: https://wiki.erdbeerbaerlp.de/_detail/pretendo:screenshot_20250119_223810.png?id=pretendo%3Agame-support-status''\\ 
+~@spletz_\\ 
+Cofiwch fod Pretendo yn wasanaeth rhad ac am ddim ac yn brosiect angerddol, nid cwmni. Jon, perchennog Pretendo, yw'r unig ddatblygwr llawn amser. Mae datblygwyr eraill yn gwneud cyfraniadau o'u hamser rhydd eu hunain ac o'u hewyllys eu hunain. Nid yw rhoi yn prynu gwasanaeth; Mae'n dangos eich cefnogaeth i'r prosiect. Manteision a manteision yw annog pobl i gyfrannu a gwobrwyo rhoddwyr presennol. Pretendo yw un o'r prosiectau moddio anoddaf ac uchelgeisiol a gynhaliwyd erioed ac yn wreiddiol bwriedir iddo fod yn lle Super Mario Maker (Wii U) a Miiverse yn unig.

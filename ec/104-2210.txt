@@ -1,0 +1,27 @@
+~~Title: Error code 104-2210 - Unofficial Pretendo Wiki ~~
+
+
+{{htmlmetatags>
+metatag-media-og:image=(https://pbs.twimg.com/profile_images/1268751147805880320/Q-sBgEr4_400x400.jpg)
+metatag-og:description=(Troubleshooting steps for error code 104-2210 on Nintendo Wii U)
+metatag-description=(Troubleshooting steps for error code 104-2210 on Nintendo Wii U)
+metatag-og:title=(Error code 104-2210 - Unofficial Pretendo Wiki)
+}}
+
+
+
+====== Error code 104-2210 ======
+
+Clear shared save data for the game you're experiencing issues in.
+
+    - Open System Settings and go into Data Management
+    - Select Copy/Move/Delete Data
+    - Select the hard drive where the game is stored and select the game having issues
+    - Click on Shared Save Data and delete it
+    - Reopen the game having issues and online should work correctly
+
+\\
+
+<WRAP center round info 80%>
+For further support with this error code or any associated error codes, please look for a solution or make a support post on the [[https://forum.pretendo.network/|forum]].
+</WRAP>

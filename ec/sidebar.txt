@@ -1,0 +1,41 @@
+<!--WRAP center round important 100%>
+==== Pretendo Servers are in Maintenance! ====
+Servers will come back as soon as possible! Stay tuned.
+https://status.pretendo.zip
+</WRAP-->
+
+====== Pretendo Error Codes Portal ======
+
+    * [[ec:101-0502#for_3ds_users_001-0502|001-0502]]
+    * [[ec:001-0803|001-0803]]
+    * [[ec:001-0807|001-0807]]
+    * [[ec:002-0101|002-0101]]
+    * [[ec:002-0110|002-0110]]
+    * [[ec:002-0121|002-0121]]
+    * [[ec:002-0150|002-0150]]
+    * [[ec:002-0152|002-0152]]
+    * [[ec:003-0399|003-0399]]
+    * [[ec:005-4270|005-4270]]
+    * [[ec:012-151x|012-1510/012-1511]]
+    * [[ec:015-5015|015-5015]]
+    * [[ec:022-2402|022-2402]]
+    * [[ec:022-2482|022-2482]]
+    * [[ec:022-5432|022-5432]]
+    * [[ec:090-2415|090-2415]]
+    * [[ec:101-0103|101-0103]]
+    * [[ec:101-0502|101-0502]]
+    * [[ec:102-2160|102-2160]]
+    * [[ec:102-2402|102-2402]]
+    * [[ec:104-2210|104-2210]]
+    * [[ec:115-2004|115-2004]]
+    * [[ec:115-5016|115-5016]]
+    * [[ec:other|Other]]
+
+==== Additional error code info ====
+
+    * [[ec:ban-codes|Ban Error Codes]]
+    * [[ec:prefixes|Error Code Prefixes]]
+    * [[https://pretendo.network/docs/search|Use official Pretendo error code search tool]]
+
+
+/* Won't list all error codes here eventually but we can do that currently */

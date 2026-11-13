@@ -1,0 +1,47 @@
+~~Title: 3DS Error-Code 022-2402 - Unofficial Pretendo Wiki ~~
+
+
+{{htmlmetatags>
+metatag-media-og:image=(https://pbs.twimg.com/profile_images/1268751147805880320/Q-sBgEr4_400x400.jpg)
+metatag-og:description=(This Error-Code can happen when linking a PNID. This Wiki-Page contains troubleshooting steps for this Error)
+metatag-description=(This Error-Code can happen when linking a PNID. This Wiki-Page contains troubleshooting steps for this Error)
+metatag-og:title=(3DS Error-Code 022-2402 - Unofficial Pretendo Wiki)
+}}
+
+====== 3DS Error-Code 022-2402 ======
+
+This is a guide on how to fix the 022-2402 error code on Nintendo 3DS when linking a PNID.
+
+First of all, if you experience this error code, check the friends list application for an error code. 
+
+==== Friends List doesn't give an error code ====
+
+If the console has never connected to the Friends List before to create a friend profile, PNID creation/linking will not work. Set up the friend profile first, and then attempt to link the PNID.
+
+If the Friends List application doesn't give you an error code, and a friend profile already exists, reopen System Settings. You'll need to go into Other Settings and change the language on your system.
+
+<WRAP center round info 80%>
+Hang on, before you resolve this, the Pretendo team are looking for dumps specifically when you don't get an error code in friends list. Follow the instructions to [[https://pretendo.network/docs/network-dumps#http-packets|start getting HTTP packets captured]] and reproduce the steps you took to get error code 022-2402. When you've finished capturing the dump, send the necessary files privately using the ''/upload-network-dump http'' command on the Pretendo Discord server or send it privately to ''@PN_Jon'' on the forum (please only send it to this account).
+
+If you need any assistance with this, feel free to ask a staff member on the Pretendo Discord or forums.
+</WRAP>
+
+Once you've changed the language, attempt to link your PNID again. It should link successfully this time. If you still have the same error code, ask for support on the forum and if you have a different error code, we'd recommend looking it up.
+
+If your PNID linked successfully, you can now revert to English (or the language that you were using beforehand).
+
+==== Friends List gives an error code ====
+
+If your Friends List gives you an error code, there could be a variety of fixes. These are usually the most common error codes that appear:
+
+  * [[ec:002-0101|002-0101]] - likely an issue with your SecureInfo_A file but can occasionally be a Pretendo outage. If servers aren't experiencing issues, ask for help in [[https://discord.gg/nintendohomebrew|Nintendo Homebrew]].
+  * [[ec:002-0121|002-0121]] - first two Luma3DS settings not enabled or (occasionally) [[ec:002-0150|issue with LocalFriendCodeSeed_B.]]
+  * [[ec:002-0150|002-0150]] - issue with LocalFriendCodeSeed_B.
+
+Once you've fixed the error code that appears in the Friends List, you shouldn't get error code 022-2402 when linking a PNID.
+
+\\
+
+<WRAP center round info 80%>
+For further support with this error code or any associated error codes, please look for a solution or make a support post on the [[https://forum.pretendo.network/|forum]].
+</WRAP>

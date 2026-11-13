@@ -1,0 +1,66 @@
+~~Title: FAQ - Unofficial Pretendo Wiki ~~
+
+
+{{htmlmetatags>
+metatag-media-og:image=(https://pbs.twimg.com/profile_images/1268751147805880320/Q-sBgEr4_400x400.jpg)
+metatag-og:description=(Frequently asked questions about Pretendo. If you have been linked here as a reply to a question, it will probably be answered here.)
+metatag-description=(Frequently asked questions about Pretendo. If you have been linked here as a reply to a question, it will probably be answered here.)
+metatag-og:title=(FAQ - Unofficial Pretendo Wiki)
+}}
+
+====== FAQ ======
+This page contains questions which are asked a lot of times. If you have been linked here as a reply to a question, it will probably be answered here.
+
+Please also check out the [[https://pretendo.network/#faq|official FAQ on the website]] and the [[https://forum.pretendo.network/t/frequently-asked-questions-regarding-pretendo-network-and-pretendo-forums/4339/|forum FAQ]] for answers to common questions not addressed here.
+
+===== Installation =====
+==== "Will the Nintendo 3DS ever support SSSL?" ====
+No. There is no known SSL exploit on the Nintendo 3DS/2DS at this time and there likely will not be one found in the future (although it is //possible//, **don't get your hopes up**).\\ 
+
+==== "Should I use SSSL and Inkay at the same time?" ====
+Doing this is not recommended, as this may cause numerous issues. Please remove SSSL in this case, by setting your DNS to automatic, or manually by using 1.1.1.1/1.0.0.1
+
+===== Donations =====
+
+==== "I can't afford to donate." ====
+''Everything will be completely free eventually, however, so if you have no rush, you can always wait until it's out of testing and available to the public servers :)'' ~@maisiemarlowe\\ 
+
+==== "Where can I donate?" ====
+https://pretendo.network/account/upgrade - You will need to log in to your account for this.
+
+==== "How to, and how not to cancel your subscription" / "How to subscribe for just one month instead of a full subscription" ====
+Important to note is, when you cancel your subscription, you will lose your perks (tester access, discord role) **IMMEDIATELY**. This is a limitation of Stripe (the payment provider) and cannot be changed from Pretendo's side.
+
+Be aware of this before you unsubscribe. If you want to use your subscription for one month, you need to cancel at the end of the month, not immediately after the payment!
+
+You can unsubscribe after logging in at https://pretendo.network/account/upgrade
+
+===== Game Support =====
+
+==== "Will xxxx be supported?" ====
+All games and services that used solely Nintendo Network will eventually be supported. Support for games that didn't solely use Nintendo Network will not be provided until further notice.\\ 
+
+==== "When will xxxx release/be fixed? Is there an estimated timeframe to when it will be complete?" ====
+No games or services will ever be given estimated release dates unless they are actively being developed/tested and are preparing to be released to either the testers or the public.\\ 
+
+{{ :etawhen.png?600 |}}
+
+==== "When will [game] community be added to Juxtaposition?" ====
+See the first two answers.\\
+
+==== "When will Juxtaposition on Old Nintendo 3DS be fixed?" ====
+See the first two answers.\\
+
+==== "Will Juxtaposition or Account Settings be supported by SSSL?" ====
+No. It is **//highly//** recommended that you [[https://wiiu.hacks.guide|mod your console]] for the best experience while using Pretendo, and as a bonus you get to use all the other cool things a modded Wii U has to offer!\\ 
+
+==== "Will other consoles be supported? Like the Nintendo Switch when it shuts down?" ====
+First of all, no, Pretendo does not plan to support the Nintendo Switch or any other console at this time. Second of all, Nintendo Switch Online services likely will not shut down for a //very// long time.\\
+
+==== "Will [game that never had online support] be supported?" ====
+No. If it never had support for any online features whatsoever, then it is out of scope for Pretendo.\\ 
+
+==== "What's taking them so long?" "Hurry up!" "I'm very impatient!!" ====
+''For people who complain about wait times: https://wiki.erdbeerbaerlp.de/_detail/pretendo:screenshot_20250119_223810.png?id=pretendo%3Agame-support-status''\\ 
+~@spletz_\\ 
+Please remember that Pretendo is a free service and a passion project, not a company. Jon, the owner of Pretendo, is the only full-time developer. Other developers make contributions out of their own free time and of their own will. Donating isn't purchasing a service; it is showing your support for the project. Perks and benefits are to encourage people to donate and reward existing donators. Pretendo is one of the most difficult and ambitious modding projects ever undertaken and was originally intended to only be a Super Mario Maker (Wii U) and Miiverse replacement.

@@ -1,0 +1,36 @@
+~~Title: Disabling StreetPass Relay - Unofficial Pretendo Wiki ~~
+
+
+{{htmlmetatags>
+metatag-media-og:image=(https://pbs.twimg.com/profile_images/1268751147805880320/Q-sBgEr4_400x400.jpg)
+metatag-og:description=(A small guide to disable StreetPass Relay)
+metatag-description=(A small guide to disable StreetPass Relay)
+metatag-og:title=(Disabling StreetPass Relay - Unofficial Pretendo Wiki)
+}}
+
+
+
+====== Disabling StreetPass Relay======
+
+
+Prerequisites:
+  * Modded 3DS
+  * A PC or anything that can use an SD Reader
+  * SD Card (-reader)
+
+===== Step 0: 3DS Environment =====
+Make sure your 3DS is on the latest available firmware and Luma version.
+In the Luma settings, make sure external firms/modules and game patches are enabled.
+
+===== Step 1: Download Patches =====
+These two files are from an older revision of the NetPass patches. The 0004013000003402.ips file changes the StreetPass Relay server address to invalid.pretendo.zip, so the console can't reach a relay server. The 0004013000002602.ips file is empty and makes no changes.
+
+Download the IPS files from here: https://cloud.erdbeerbaerlp.de/s/r76JR76HmJnLXxj
+===== Step 2: Copy Patches =====
+Once your SD Card is inserted, open the ''luma'' folder, then the ''sysmodules'' folder. 
+Now copy the two .ips files in here.
+
+StreetPass Relay should now be disabled. 
+
+====== Re-Enabling StreetPass Relay ======
+To Re-Enable StreetPass Relay, just delete the two IPS Files ''0004013000003402.ips'' and ''0004013000002602.ips'' in the ''luma/sysmodules'' folder.

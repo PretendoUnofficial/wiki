@@ -1,0 +1,31 @@
+====== Pretendo Fehlermeldungs-Portal ======
+
+    * [[de:ec:101-0502#for_3ds_users_001-0502|001-0502]]
+    * [[de:ec:001-0803|001-0803]]
+    * [[de:ec:002-0101|002-0101]]
+    * [[de:ec:002-0110|002-0110]]
+    * [[de:ec:002-0121|002-0121]]
+    * [[de:ec:002-0150|002-0150]]
+    * [[de:ec:003-0399|003-0399]]
+    * [[de:ec:005-4270|005-4270]]
+    * [[de:ec:012-151x|012-1510/012-1511]]
+    * [[de:ec:015-5015|015-5015]]
+    * [[de:ec:022-2402|022-2402]]
+    * [[de:ec:022-2482|022-2482]]
+    * [[de:ec:022-5432|022-5432]]
+    * [[de:ec:090-2415|090-2415]]
+    * [[de:ec:101-0103|101-0103]]
+    * [[de:ec:101-0502|101-0502]]
+    * [[de:ec:102-2402|102-2402]]
+    * [[de:ec:104-2210|104-2210]]
+    * [[de:ec:115-2004|115-2004]]
+    * [[de:ec:other|Other]]
+
+==== Weitere Fehlercode-Informationen ====
+
+    * [[de:ec:ban-codes|Ban Error Codes]]
+    * [[de:ec:prefixes|Error Code Prefixes]]
+    * [[https://pretendo.network/docs/search|Nutze das Offizielle Fehlercode-Suchtool (EN)]]
+
+
+/* Won't list all error codes here eventually but we can do that currently */

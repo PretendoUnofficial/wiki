@@ -1,0 +1,19 @@
+~~Title: Wii U Error-Code - Unofficial Pretendo Wiki ~~
+
+
+{{htmlmetatags>
+metatag-media-og:image=(https://pbs.twimg.com/profile_images/1268751147805880320/Q-sBgEr4_400x400.jpg)
+metatag-og:description=(This error code indicates that the Miiverse service token has expired or otherwise become invalid. To fix, simply reboot the console.)
+metatag-description=(This error code indicates that the Miiverse service token has expired or otherwise become invalid. To fix, simply reboot the console.)
+metatag-og:title=(Wii U Error-Code 115-5016 - Unofficial Pretendo Wiki)
+}}
+
+
+
+====== Wii U Error-Code 115-5016 ======
+This error code indicates that the Miiverse service token has expired or otherwise become invalid. To fix, simply reboot the console.
+
+\\
+<WRAP center round info 80%>
+For further support with this error code or any associated error codes, please look for a solution or make a support post on the [[https://forum.pretendo.network/|forum]].
+</WRAP>

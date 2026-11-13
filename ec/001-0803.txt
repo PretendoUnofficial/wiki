@@ -1,0 +1,23 @@
+~~Title: 3DS Error-Code 001-0803 - Unofficial Pretendo Wiki ~~
+
+
+{{htmlmetatags>
+metatag-media-og:image=(https://pbs.twimg.com/profile_images/1268751147805880320/Q-sBgEr4_400x400.jpg)
+metatag-og:description=(This error code may appear when using a custom DNS whitelist trying to access a Nintendo Network service (probably for Wiimmfi). Try disabling it.)
+metatag-description=(This error code may appear when using a custom DNS whitelist trying to access a Nintendo Network service (probably for Wiimmfi). Try disabling it.)
+metatag-og:title=(3DS Error-Code 001-0803 - Unofficial Pretendo Wiki)
+}}
+
+
+
+====== 3DS Error-Code 001-0803 ======
+
+It looks like you are using a custom DNS whilst trying to access a Nintendo Network service (probably for Wiimmfi).
+
+Disable your custom DNS and the service should work normally. You can do this in ''System Settings > Internet Settings > Connection Settings > Select a connection > Change Settings > DNS'' and set auto-obtain DNS to ''Yes''.
+
+\\
+
+<WRAP center round info 80%>
+For further support with this error code or any associated error codes, please look for a solution or make a support post on the [[https://forum.pretendo.network/|forum]].
+</WRAP>

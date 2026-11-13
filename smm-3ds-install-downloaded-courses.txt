@@ -1,0 +1,67 @@
+~~Title: Install downloaded SMM Courses to 3DS - Unofficial Pretendo Wiki ~~
+
+
+{{htmlmetatags>
+metatag-media-og:image=(https://pbs.twimg.com/profile_images/1268751147805880320/Q-sBgEr4_400x400.jpg)
+metatag-og:description=(Guide to install downloaded courses to 3DS)
+metatag-description=(Guide to install downloaded courses to 3DS)
+metatag-og:title=(Install downloaded SMM Courses to 3DS - Unofficial Pretendo Wiki)
+}}
+
+
+
+====== Install downloaded SMM Courses to 3DS ======
+
+<WRAP left square info 90%>
+Editing of this page is limited to Pretendo Network staff members
+</WRAP>
+
+
+<WRAP left round important 90%>
+Always make sure to have a extradata backup of your SMM 3DS, this contains all your courses!\\
+I am not responsible for: "bricked" save data, crashes, or other weird behavior
+</WRAP>
+
+
+
+
+===== Requirements: =====
+ 
+  * Modded 3DS (duh)
+  * OCDM-old.cia - https://cloud.erdbeerbaerlp.de/s/LZjcJWwwqYadKq8/download\\ **__FBI QR-Code for OCDM:__**\\ {{:ocdm_qr.png?nolink&200|}}
+
+
+===== Step 1: Create dummy courses =====
+
+You need to have a few "blank" courses in your course-bot. Just saving the title screen course a few times is enough.
+
+{{:smm3ds_course_bot_dummy_courses.png?direct&400 |}}
+
+===== Step 2: Download courses =====
+Go to https://smm.pretendo.zip and download the courses you want.
+
+On your 3DS SD-Card create a folder called SMM-Import. //(Can actually be any name, you just need to remember it later ;-))//
+
+In there, create a sub-folder for every course and then drop the **contents** of each .zip to it's corresponding folder.
+
+**Example folder structure:**\\
+{{:smm3ds_file_structure.png?direct&200|}}
+
+===== Step 3: Inject Courses  =====
+  * Run OCDM, if you get stuck on just text, press A to continue.
+  * Open "Course list"
+  * Select one of your dummy courses, then "Import WiiU"
+{{:ocdm_import_wiiu.png?direct&200|}}
+  * Go to your SMM-Import folder, then select one of the courses subfolders.
+  * Hit "> Select this directory <"
+{{:ocdm_select_dir.png?direct&200|}}
+  * The course is now injected! You can repeat this process a few times for more courses, or open up Mario Maker to play the injected course(s).
+
+
+===== Known Issues =====
+==== Courses are showing up glitched ====
+There is sadly no way around it. OCDM is at fault here, and this tool has been abandoned for years now. Most courses are still playable tho!
+
+{{:smm3ds_glitch.png?400|}}
+
+

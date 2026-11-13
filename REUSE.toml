@@ -1,0 +1,68 @@
+version = 1
+
+[[annotations]]
+path = [
+    "**"
+]
+precedence = "override"
+SPDX-FileCopyrightText = "2026 Unknown"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = [
+    "_media/pretendo/rdvsrn.png"
+]
+precedence = "override"
+SPDX-FileCopyrightText = "2024 ErdbeerbaerLP"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = [
+    "_media/pretendo/screenshot_20250119_223810.png",
+    "_media/smm3ds_file_structure.png",
+    "_media/ocdm_import_wiiu.png",
+    "_media/ocdm_select_dir.png",
+    "_media/smm3ds_glitch.png",
+    "_media/smm3ds_course_bot_dummy_courses.png",
+    "_media/ocdm_qr.png"
+]
+precedence = "override"
+SPDX-FileCopyrightText = "2025 ErdbeerbaerLP"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = [
+    "_media/etawhen.png"
+]
+precedence = "override"
+SPDX-FileCopyrightText = "2025 Spletz"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = [
+    "_media/pretendo/forumecpv/error_code_015-5015.png"
+]
+precedence = "override"
+SPDX-FileCopyrightText = "2025 ExperiencersInternational"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = [
+    "_media/pretendo/game-support/2_mostly_supported.png",
+    "_media/pretendo/game-support/3_fully_supported.png",
+    "_media/pretendo/game-support/0_not_supported.png",
+    "_media/pretendo/game-support/1_limited_support.png",
+    "_media/pretendo/game-support/testers_only.png",
+    "_media/pretendo/game-support/public.png"
+]
+precedence = "override"
+SPDX-FileCopyrightText = "2026 ExperiencersInternational"
+SPDX-License-Identifier = "LicenseRef-ExperiencerDesign"
+
+[[annotations]]
+path = [
+    "_media/pretendo/pretendo-a-b.png"
+]
+precedence = "override"
+SPDX-FileCopyrightText = "2026 ErdbeerbaerLP"
+SPDX-License-Identifier = "CC-BY-SA-4.0"

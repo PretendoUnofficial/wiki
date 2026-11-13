@@ -1,0 +1,15 @@
+FIXME **'Dyw'r dudalen heb ei chyfieithu'n llawn eto. Cynorthwywch gan gyflawni'r cyfieithiad.**\\ //(tynnych y paragraff hwn unwaith i chi orffen y cyfieithu)//
+
+====== Unofficial Pretendo Wici ======
+
+
+{{htmlmetatags>
+metatag-media-og:image=(https://cloud.erdbeerbaerlp.de/s/MofHxp4PPGtiFAY/download)
+metatag-og:description=(This is an unofficial wiki for the popular Nintendo Network replacement)
+metatag-description=(This is an unofficial wiki for the popular Nintendo Network replacement)
+metatag-og:title=(Unofficial Pretendo Wiki)
+}}
+
+Croeso i'r Wiki Pretendo answyddogol. Ar hyn o bryd mae'r Wici hwn yn cael ei reoli gan @ErdbeerbaerLP a'i gyfieithu i'r Gymraeg gan @dk.dll
+
+Edrychwch ar y tudalennau sydd ar gael ar y chwith!

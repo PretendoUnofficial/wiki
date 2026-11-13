@@ -1,0 +1,29 @@
+~~Title: Individual Game Support Status - Unofficial Pretendo Wiki ~~
+
+
+{{htmlmetatags>
+metatag-media-og:image=(https://pbs.twimg.com/profile_images/1268751147805880320/Q-sBgEr4_400x400.jpg)
+metatag-og:description=(Information about individual game status pages on the unofficial wiki.)
+metatag-description=(Information about individual game status pages on the unofficial wiki.)
+metatag-og:title=(Individual Game Support Status - Unofficial Pretendo Wiki)
+}}
+
+
+
+====== Individual Game Support Status ======
+
+This namespace is used to store pages for support status for specific games, which can be helpful if a game needs to be covered in additional detail or just for SEO. To see all supported titles, go to the [[:game-support-status|main game support status page]].
+
+I've opted to rank each game from a 0 to 3 in how well they're supported here:
+
+{{:pretendo:game-support:0_not_supported.png?nolink&120|Not supported}}
+{{:pretendo:game-support:1_limited_support.png?nolink&120|Limited support}}
+{{:pretendo:game-support:2_mostly_supported.png?nolink&120|Mostly supported}}
+{{:pretendo:game-support:3_fully_supported.png?nolink&120|Fully supported}}
+
+In addition to this, you'll also see badges on whether a game is public or testers only.
+
+{{:pretendo:game-support:public.png?nolink&120|Public}}
+{{:pretendo:game-support:testers_only.png?nolink&120|Testers only}}
+
+All designs for the supported status are created by ExperiencersInternational. Please request permission before reusing outside the wiki.

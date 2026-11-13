@@ -1,0 +1,32 @@
+~~Title: Wii U Error-Code 102-2402 - Unofficial Pretendo Wiki ~~
+
+
+{{htmlmetatags>
+metatag-media-og:image=(https://pbs.twimg.com/profile_images/1268751147805880320/Q-sBgEr4_400x400.jpg)
+metatag-og:description=(Usually, this error code suggests that the serial number on your Wii U is modified. To resolve this, you'll need to apply the correct serial number to your console. How-To on Wiki-Page)
+metatag-description=(Usually, this error code suggests that the serial number on your Wii U is modified. To resolve this, you'll need to apply the correct serial number to your console. How-To on Wiki-Page)
+metatag-og:title=(Wii U Error-Code 102-2402 - Unofficial Pretendo Wiki)
+}}
+
+
+
+====== Wii U Error-Code 102-2402 ======
+
+Usually, this error code suggests that the serial number on your Wii U is modified. To resolve this, you'll need to apply the correct serial number to your console.
+
+  - Flip your console over and note down the serial ID. It's the number that appears on the white sticker at the top.
+  - Install [[https://aroma.foryour.cafe/package/ftpiiu|FTPiiU]] manually or from the Homebrew App Store.
+  - With your Wii U booted into Aroma, press ''L+Down+Select'' to enter the Aroma plugin menu. Then, go to FTPiiU and set ''Allow access to system files'' to ''true''.
+  - On your computer, use any FTP client you want (you can even use Windows Explorer) and connect to the IP/port shown in FTPiiU. 
+  - Navigate to ''/storage_slc/sys/config/'' and download ''sys-prod.xml'' to your computer.
+  - Open the downloaded ''sys-prod.xml'' and ensure that the codes in the ''code_id'' and ''serial_id'' fields match the serial ID at the bottom of your console. If they don't match, replace them with the correct serial and save the file.
+  - Upload the fixed ''sys-prod.xml'' file to ''/storage_slc/sys/config/'', overwriting the previous file when you're asked to.
+  - Disconnect from FTP and set ''Allow access to system files'' to ''false''. Then, reboot your Wii U and Pretendo should start working once you log into your account.
+
+Thanks ''@aircookieee'' for their guide: https://discord.com/channels/408718485913468928/1232274456752422942/1233426788395389049.
+
+\\
+
+<WRAP center round info 80%>
+For further support with this error code or any associated error codes, please look for a solution or make a support post on the [[https://forum.pretendo.network/|forum]].
+</WRAP>
